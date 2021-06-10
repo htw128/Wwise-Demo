@@ -71,7 +71,7 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 #Wwise
-/.cache
+.cache/
 PluginInfo.xml
 SoundbanksInfo.xml
 *.validationcache
