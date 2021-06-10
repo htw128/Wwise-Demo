@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{8DA28F99-F9C4-4069-B0C2-A9206DC5244A}" SchemaVersion="103">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{8DA28F99-F9C4-4069-B0C2-A9206DC5244A}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Play1" ID="{0AA74BC2-E884-427B-B1B1-665DD68FFFAB}">
+					<ChildrenList>
+						<Action Name="" ID="{4EA3ADC1-DA89-473C-9807-B85F34CF6422}" ShortID="314850602">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="audio_sound_button_normal" ID="{75E51153-AF3B-4049-93A7-206AD9D1073A}" WorkUnitID="{71A4C28F-AA2C-4D02-BA66-39FACAEE266B}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_New_Music_Segment" ID="{8638D92C-8CD2-4F29-B837-F8172C79B97C}">
+					<ChildrenList>
+						<Action Name="" ID="{2D70B579-0C69-43EB-8124-44385FB370CF}" ShortID="116510225">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="New Music Segment" ID="{CF334A2B-8D7D-427B-A4AA-EA8BBB4CE966}" WorkUnitID="{EFC16CC3-104A-4C54-8398-6CDB29FA7ACB}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
