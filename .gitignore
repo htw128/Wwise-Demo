@@ -71,13 +71,18 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
+# Mac stuff
+.DS_store
+
 #Wwise
 .cache/
 .backup/
-*.akd
+Assets/Wwise/Editor/ProjectData/AkWwiseProjectData.asset*
 PluginInfo.xml
 SoundbanksInfo.xml
+IncrementalSoundBankData.xml
 *.validationcache
 *.wsettings
 *.prof
+*.akd
 WwiseUnityIntegration_*_Src.zip
