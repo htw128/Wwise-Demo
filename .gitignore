@@ -79,5 +79,5 @@ PluginInfo.xml
 SoundbanksInfo.xml
 *.validationcache
 *.wsettings
-.prof
+*.prof
 WwiseUnityIntegration_*_Src.zip
