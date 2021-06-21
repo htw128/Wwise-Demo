@@ -73,7 +73,11 @@ crashlytics-build.properties
 
 #Wwise
 .cache/
+.backup/
+*.akd
 PluginInfo.xml
 SoundbanksInfo.xml
 *.validationcache
+*.wsettings
+.prof
 WwiseUnityIntegration_*_Src.zip
