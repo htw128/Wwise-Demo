@@ -23,6 +23,16 @@
 								</Reference>
 							</ReferenceList>
 						</Action>
+						<Action Name="" ID="{2D3DDD43-9CE1-4B6C-BC94-CE49EAED65DD}" ShortID="506750696">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="39"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Volume" ID="{EE3F8C9D-38B8-4061-A30A-96C5739ED626}" WorkUnitID="{8B2DE186-D2F3-4BC2-B575-8FA86FD791FF}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
 					</ChildrenList>
 				</Event>
 			</ChildrenList>

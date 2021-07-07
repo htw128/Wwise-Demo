@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9399ce12fab567743878b42cd919b419, type: 3}
   m_Name: A71C28B2-094D-4505-AFF1-7C86547C92C6
   m_EditorClassIdentifier: 
-  objectName: New_SoundBank
-  id: 4072029455
+  objectName: General
+  id: 133642231
   guid: A71C28B2-094D-4505-AFF1-7C86547C92C6

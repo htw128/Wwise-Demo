@@ -17,10 +17,15 @@ namespace AK
         static const AkUniqueID PLAY_NEW_MUSIC_SEGMENT = 3256642374U;
     } // namespace EVENTS
 
+    namespace GAME_PARAMETERS
+    {
+        static const AkUniqueID VOLUME = 2415836739U;
+    } // namespace GAME_PARAMETERS
+
     namespace BANKS
     {
         static const AkUniqueID INIT = 1355168291U;
-        static const AkUniqueID NEW_SOUNDBANK = 4072029455U;
+        static const AkUniqueID GENERAL = 133642231U;
     } // namespace BANKS
 
     namespace BUSSES
