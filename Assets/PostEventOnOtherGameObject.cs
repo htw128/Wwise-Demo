@@ -7,6 +7,8 @@ public class PostEventOnOtherGameObject : MonoBehaviour
      public GameObject otherGameObject;
      private void OnTriggerEnter(Collider other)
      {
-          MyEvent.Post(otherGameObject);
+        MyEvent.Post(otherGameObject);
+        string eventName = MyEvent.Name;
+        AkSoundEngine.PostEvent(eventName, otherGameObject);
      }
 }

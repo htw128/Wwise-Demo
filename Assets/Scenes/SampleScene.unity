@@ -1637,6 +1637,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec2920a88b1374f408adafeb4e5beb10, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  musicVolume:
+    idInternal: 0
+    valueGuidInternal: 
+    WwiseObjectReference: {fileID: 11400000, guid: 5a172db5882d9df4182105820f8fd9ba, type: 2}
 --- !u!114 &1717329196
 MonoBehaviour:
   m_ObjectHideFlags: 0

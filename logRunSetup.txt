@@ -1,0 +1,1467 @@
+[Licensing::Module] Channel doesn't exist: "LicenseClient-elex"
+[Licensing::Module] Successfully launched the LicensingClient (PId: 7248)
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-elex" (connect: 1.47s, validation: 0.08s, handshake: 1.81s)
+[Licensing::Module] Connected to LicensingClient (PId: 7248, launch time: 0.01, total connection time: 3.37s)
+Entitlement-based licensing initiated
+[LicensingClient] Licenses updated successfully
+
+LICENSE SYSTEM [2021629 18:31:52] Next license update check is after 2021-06-29T06:01:32
+
+
+LICENSE SYSTEM [2021629 18:31:52] Current license is already valid and activated. Skipping license activation process (Provided username/password will be ignored).
+Built from '2020.3/staging' branch; Version is '2020.3.9f1 (108be757e447) revision 1084391'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1052; Version 2009; 64bit' Language: 'zh' Physical Memory: 16310 MB
+[Licensing::Module] Serial number assigned to: "F4-MNGQ-A346-SRUC-PDPF-XXXX"
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+[Package Manager] Server::Start -- Port 65329 was selected
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\2020.3.9f1\Editor\Unity.exe
+-batchmode
+-nographics
+-logFile
+logRunSetup.txt
+-projectPath
+D:\Projects\Wwise_Demo_WwiseIntegrationTemp
+-executeMethod
+WwiseSetupWizard.RunModify
+-quit
+Successfully changed project path to: D:\Projects\Wwise_Demo_WwiseIntegrationTemp
+D:/Projects/Wwise_Demo_WwiseIntegrationTemp
+Using Asset Import Pipeline V2.
+[Package Manager] Done resolving packages in 1.24s seconds
+[Package Manager] Done checking package constraints in 0.00s seconds
+[Package Manager] 
+Registered 42 packages:
+  Packages from [https://packages.unity.com]:
+    com.unity.collab-proxy@1.3.9 (location: D:\Projects\Wwise_Demo_WwiseIntegrationTemp\Library\PackageCache\com.unity.collab-proxy@1.3.9)
+    com.unity.ide.rider@2.0.7 (location: D:\Projects\Wwise_Demo_WwiseIntegrationTemp\Library\PackageCache\com.unity.ide.rider@2.0.7)
+    com.unity.ide.visualstudio@2.0.7 (location: D:\Projects\Wwise_Demo_WwiseIntegrationTemp\Library\PackageCache\com.unity.ide.visualstudio@2.0.7)
+    com.unity.ide.vscode@1.2.3 (location: D:\Projects\Wwise_Demo_WwiseIntegrationTemp\Library\PackageCache\com.unity.ide.vscode@1.2.3)
+    com.unity.test-framework@1.1.24 (location: D:\Projects\Wwise_Demo_WwiseIntegrationTemp\Library\PackageCache\com.unity.test-framework@1.1.24)
+    com.unity.textmeshpro@3.0.6 (location: D:\Projects\Wwise_Demo_WwiseIntegrationTemp\Library\PackageCache\com.unity.textmeshpro@3.0.6)
+    com.unity.timeline@1.4.8 (location: D:\Projects\Wwise_Demo_WwiseIntegrationTemp\Library\PackageCache\com.unity.timeline@1.4.8)
+    com.unity.ext.nunit@1.0.6 (location: D:\Projects\Wwise_Demo_WwiseIntegrationTemp\Library\PackageCache\com.unity.ext.nunit@1.0.6)
+  Built-in packages:
+    com.unity.ugui@1.0.0 (location: C:\Program Files\Unity\2020.3.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.ugui)
+    com.unity.modules.ai@1.0.0 (location: C:\Program Files\Unity\2020.3.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.ai)
+    com.unity.modules.androidjni@1.0.0 (location: C:\Program Files\Unity\2020.3.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.androidjni)
+    com.unity.modules.animation@1.0.0 (location: C:\Program Files\Unity\2020.3.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.animation)
+    com.unity.modules.assetbundle@1.0.0 (location: C:\Program Files\Unity\2020.3.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.assetbundle)
+    com.unity.modules.audio@1.0.0 (location: C:\Program Files\Unity\2020.3.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.audio)
+    com.unity.modules.cloth@1.0.0 (location: C:\Program Files\Unity\2020.3.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.cloth)
+    com.unity.modules.director@1.0.0 (location: C:\Program Files\Unity\2020.3.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.director)
+    com.unity.modules.imageconversion@1.0.0 (location: C:\Program Files\Unity\2020.3.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.imageconversion)
+    com.unity.modules.imgui@1.0.0 (location: C:\Program Files\Unity\2020.3.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.imgui)
+    com.unity.modules.jsonserialize@1.0.0 (location: C:\Program Files\Unity\2020.3.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.jsonserialize)
+    com.unity.modules.particlesystem@1.0.0 (location: C:\Program Files\Unity\2020.3.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.particlesystem)
+    com.unity.modules.physics@1.0.0 (location: C:\Program Files\Unity\2020.3.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.physics)
+    com.unity.modules.physics2d@1.0.0 (location: C:\Program Files\Unity\2020.3.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.physics2d)
+    com.unity.modules.screencapture@1.0.0 (location: C:\Program Files\Unity\2020.3.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.screencapture)
+    com.unity.modules.terrain@1.0.0 (location: C:\Program Files\Unity\2020.3.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.terrain)
+    com.unity.modules.terrainphysics@1.0.0 (location: C:\Program Files\Unity\2020.3.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.terrainphysics)
+    com.unity.modules.tilemap@1.0.0 (location: C:\Program Files\Unity\2020.3.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.tilemap)
+    com.unity.modules.ui@1.0.0 (location: C:\Program Files\Unity\2020.3.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.ui)
+    com.unity.modules.uielements@1.0.0 (location: C:\Program Files\Unity\2020.3.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.uielements)
+    com.unity.modules.umbra@1.0.0 (location: C:\Program Files\Unity\2020.3.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.umbra)
+    com.unity.modules.unityanalytics@1.0.0 (location: C:\Program Files\Unity\2020.3.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unityanalytics)
+    com.unity.modules.unitywebrequest@1.0.0 (location: C:\Program Files\Unity\2020.3.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequest)
+    com.unity.modules.unitywebrequestassetbundle@1.0.0 (location: C:\Program Files\Unity\2020.3.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestassetbundle)
+    com.unity.modules.unitywebrequestaudio@1.0.0 (location: C:\Program Files\Unity\2020.3.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestaudio)
+    com.unity.modules.unitywebrequesttexture@1.0.0 (location: C:\Program Files\Unity\2020.3.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequesttexture)
+    com.unity.modules.unitywebrequestwww@1.0.0 (location: C:\Program Files\Unity\2020.3.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestwww)
+    com.unity.modules.vehicles@1.0.0 (location: C:\Program Files\Unity\2020.3.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.vehicles)
+    com.unity.modules.video@1.0.0 (location: C:\Program Files\Unity\2020.3.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.video)
+    com.unity.modules.vr@1.0.0 (location: C:\Program Files\Unity\2020.3.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.vr)
+    com.unity.modules.wind@1.0.0 (location: C:\Program Files\Unity\2020.3.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.wind)
+    com.unity.modules.xr@1.0.0 (location: C:\Program Files\Unity\2020.3.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.xr)
+    com.unity.modules.subsystems@1.0.0 (location: C:\Program Files\Unity\2020.3.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.subsystems)
+    com.unity.modules.uielementsnative@1.0.0 (location: C:\Program Files\Unity\2020.3.9f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.uielementsnative)
+
+[Subsystems] No new subsystems found in resolved package list.
+Package Manager log level set to [2]
+[Package Manager] Done registering packages in 0.11s seconds
+Refreshing native plugins compatible for Editor in 1275.14 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.9f1 (108be757e447)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/2020.3.9f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Projects/Wwise_Demo_WwiseIntegrationTemp/Assets
+Forcing GfxDevice: Null
+GfxDevice: creating device client; threaded=0
+NullGfxDevice:
+    Version:  NULL 1.0 [1.0]
+    Renderer: Null Device
+    Vendor:   Unity Technologies
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/2020.3.9f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/2020.3.9f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/2020.3.9f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56780
+AcceleratorClientConnectionCallback - connected - 10.1.3.238:10080
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/2020.3.9f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/2020.3.9f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.021102 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 44.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.185 seconds
+Platform modules already initialized, skipping
+Validating Project structure ... 0.011675 seconds.
+Shader import version has changed; will reimport all shaders...
+Upgrading shader files ...0.009763 seconds.
+Application.AssetDatabase Initial Script Refresh Start
+Querying for cacheable assets in Cache Server:
+	9b6e028b045cba74fbddb2b0a3d2fe00:Assets/Wwise/Documentation/Android
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:3de5876c75445e32baa535e14a00d2ac
+Start importing Assets/Wwise/Documentation/Android using Guid(9b6e028b045cba74fbddb2b0a3d2fe00) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'e72d741e754799f8dd564f6e9c324353') in 0.030877 seconds
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:4fdb4e4cbcbd5f5b706e7ac274a0cffc
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:4fdb4e4cbcbd5f5b706e7ac274a0cffc
+Querying for cacheable assets in Cache Server:
+	60caaf8bc595007478e382559052fdcb:Assets/Wwise/Documentation/Android/zh
+	c0d5d8d8d9cdeda4d8b19ef7b6c8fa7e:Assets/Wwise/Documentation/Android/ko
+	4623104d6bececf41b53bd96c546360c:Assets/Wwise/Documentation/Android/ja
+	bca06e1bcf952f541af875c76ba9d69d:Assets/Wwise/Documentation/Android/en
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:5d989ef674e7c291d0087860359e9e23
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:90503201051f05b53076626de6dbdf79
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:970ed740b152a9f7771d32da2cac19ee
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:f84a9bb71bc8b584b57eba12e1a896cf
+Start importing Assets/Wwise/Documentation/Android/zh using Guid(60caaf8bc595007478e382559052fdcb) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '47fed8d0246fd4555227e8f53d0117f9') in 0.007939 seconds
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:03b3058744a6be1fd45285394053e6be
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:03b3058744a6be1fd45285394053e6be
+Start importing Assets/Wwise/Documentation/Android/ko using Guid(c0d5d8d8d9cdeda4d8b19ef7b6c8fa7e) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '6c6cbc46ee88b62ffb187fd6ecc0b0b9') in 0.006577 seconds
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:46269877cd9c4eca719e42cc4f8b8f4b
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:46269877cd9c4eca719e42cc4f8b8f4b
+Start importing Assets/Wwise/Documentation/Android/ja using Guid(4623104d6bececf41b53bd96c546360c) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'ef1d3f17dd970eaf6160a808a3d9f98f') in 0.007459 seconds
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:3153724f528d36d592f30872f96dd99e
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:3153724f528d36d592f30872f96dd99e
+Start importing Assets/Wwise/Documentation/Android/en using Guid(bca06e1bcf952f541af875c76ba9d69d) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '370fae2efd61f95243fceb925fce9ee4') in 0.009941 seconds
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:4cfea9ddd62726f601281a67c03ba711
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:4cfea9ddd62726f601281a67c03ba711
+Querying for cacheable assets in Cache Server:
+	23e9714d2ad8c9443844e70c0273edcb:Assets/Wwise/API/Editor/WwiseMenu/iOS
+	338e3880ee3f45e4e906bd07fb93703c:Assets/Wwise/API/Runtime/Handwritten/iOS
+	d3fadd6b2f3a38a4c9946b6d9462dfb1:Assets/Wwise/API/Editor/WwiseMenu/Android
+	4432604bc82a0ca42a8897a33f6a996f:Assets/Wwise/MonoBehaviour/Editor/EditorPlatformHelpers/iOS
+	25a4fcfe4fdb5ae4791f676fb2c33aa1:Assets/Wwise/API/Runtime/Plugins/iOS
+	45cbeca9de632bc4880693b14ce14b7f:Assets/Wwise/API/Runtime/Handwritten/Android
+	e6502e13c11933047a8368ec00ee3e08:Assets/Wwise/API/Runtime/Generated/Android
+	dc668ebdbf6999a40bda24a9ff5dee68:Assets/Wwise/API/Runtime/Generated/iOS
+	6e393f61cedf91e438c76af42533e6d6:Assets/Wwise/MonoBehaviour/Editor/EditorPlatformHelpers/Android
+	0f487311060d1fd4484405b28fc75230:Assets/Wwise/API/Runtime/Plugins/Android
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:7723b7ebeb33cf1d491f3e9bc713f995
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:690ccd0f349ab296c3d4b6c3633fee27
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:bc7ae65bff620ca4afebbcf1df3da095
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:b3f70fb41c30f99356d03b18cd8ac4d5
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:d79cb5c50fc6512d39b89dad3a130a83
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:8d20c99d0bba0e5a88fa3bc6288e996f
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:34adb44c640c47763d8a12f19ad40933
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:bb001e6762d635482e81120ffbdfad3c
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:c58ded2ce792106acd5489449d7c4658
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:0e8a657a994541dd2c1c648d9f048d8f
+Start importing Assets/Wwise/API/Editor/WwiseMenu/iOS using Guid(23e9714d2ad8c9443844e70c0273edcb) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '09716a9f7b9115ba7b475436e34c70c2') in 0.009800 seconds
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:4e1ee67fbd12b38aab01c861bc6c003a
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:4e1ee67fbd12b38aab01c861bc6c003a
+Start importing Assets/Wwise/API/Runtime/Handwritten/iOS using Guid(338e3880ee3f45e4e906bd07fb93703c) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '5b081757efacc060b4b08e30477448ea') in 0.008588 seconds
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:3d6ac4ed4ced02dac363b4e63c0212e6
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:3d6ac4ed4ced02dac363b4e63c0212e6
+Start importing Assets/Wwise/API/Editor/WwiseMenu/Android using Guid(d3fadd6b2f3a38a4c9946b6d9462dfb1) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '2c2bcfaf682d4c31988e91c1366d54bb') in 0.013617 seconds
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:60bd8dc811da2b1ebe32af45f7667dd8
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:60bd8dc811da2b1ebe32af45f7667dd8
+Start importing Assets/Wwise/MonoBehaviour/Editor/EditorPlatformHelpers/iOS using Guid(4432604bc82a0ca42a8897a33f6a996f) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '15c4089f17d78804dbbc23d40532f0da') in 0.009491 seconds
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:7829a1b94420c74151215eb84308d991
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:7829a1b94420c74151215eb84308d991
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS using Guid(25a4fcfe4fdb5ae4791f676fb2c33aa1) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '005cf1172f8637ca17d644819d61b582') in 0.009189 seconds
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:16b1939f1d48e8c03469c5ebd37ad948
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:16b1939f1d48e8c03469c5ebd37ad948
+Start importing Assets/Wwise/API/Runtime/Handwritten/Android using Guid(45cbeca9de632bc4880693b14ce14b7f) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'f4ea57382d91a6eebf99ef7948324de7') in 0.009465 seconds
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:b88e21e36dd788e57647f5c9e5644efb
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:b88e21e36dd788e57647f5c9e5644efb
+Start importing Assets/Wwise/API/Runtime/Generated/Android using Guid(e6502e13c11933047a8368ec00ee3e08) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'f7939e751392e1fda3526d2c2ed5e900') in 0.009909 seconds
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:6377feeaf7c17ad1f8be0cd2c6077258
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:6377feeaf7c17ad1f8be0cd2c6077258
+Start importing Assets/Wwise/API/Runtime/Generated/iOS using Guid(dc668ebdbf6999a40bda24a9ff5dee68) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '622e676b5bb1b2da705af471c1d39c06') in 0.008787 seconds
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:909859d082e63bc798c14f68a3a5ffcb
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:909859d082e63bc798c14f68a3a5ffcb
+Start importing Assets/Wwise/MonoBehaviour/Editor/EditorPlatformHelpers/Android using Guid(6e393f61cedf91e438c76af42533e6d6) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '438996384c37d69417efa27254c3a736') in 0.009085 seconds
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:3bc04877b674254aa1b522476d22177b
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:3bc04877b674254aa1b522476d22177b
+Start importing Assets/Wwise/API/Runtime/Plugins/Android using Guid(0f487311060d1fd4484405b28fc75230) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'f9dbfdda07d4ed9c17d1a94b3b069a8d') in 0.010620 seconds
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:c07101a23f9e1f85cac84523e1235a1e
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:c07101a23f9e1f85cac84523e1235a1e
+Querying for cacheable assets in Cache Server:
+	803aef1e0a2465e43ad8210374de4d41:Assets/Wwise/API/Runtime/Plugins/iOS/Profile
+	33cc02e4e06fa0e40acc95b5a2b633a5:Assets/Wwise/API/Runtime/Plugins/Android/armeabi-v7a
+	73f9611c585d904478f03e25d3332c64:Assets/Wwise/API/Runtime/Plugins/iOS/DSP
+	d9483cfcd9312614fb2bc58450a48649:Assets/Wwise/API/Runtime/Plugins/iOS/Release
+	0c54cb4511b95e14dba9fe7e4f0bafb4:Assets/Wwise/API/Runtime/Plugins/Android/arm64-v8a
+	1d7f1aecabca0ea4fa128ccdc22cb472:Assets/Wwise/API/Runtime/Plugins/iOS/Debug
+	2e3ca6fb7fc4bbe4da34387c4f2c94f1:Assets/Wwise/API/Runtime/Plugins/Android/x86
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:b33bfab4daf1bae5df6d40ac5216d40f
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:f9f37b64c33d06cbf19bf73a01a36ab7
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:64993c86b9149124021bf297329bc081
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:7e301130fcd8ff9eecacea4e2831b356
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:8dbb54c45b53ada8917c5010627b1f42
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:299d015c61965c915bdb46031fb2a0d6
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:9cc6cc8599380a3c26d7c247c426b858
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/Profile using Guid(803aef1e0a2465e43ad8210374de4d41) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '6176335b7ab5b12623f4e973cbe3378e') in 0.008555 seconds
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:96bb59120500f934c1e088cc2de7c724
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:96bb59120500f934c1e088cc2de7c724
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/armeabi-v7a using Guid(33cc02e4e06fa0e40acc95b5a2b633a5) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '2b55054cc4014920fd68eb8834c0985d') in 0.010155 seconds
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:0d69d1adc269c05e2b112e173486115d
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:0d69d1adc269c05e2b112e173486115d
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP using Guid(73f9611c585d904478f03e25d3332c64) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'e70694805ce5a64e661597330ec15df7') in 0.010917 seconds
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:8ed170e176df83c0afdcb97b48f98232
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:8ed170e176df83c0afdcb97b48f98232
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/Release using Guid(d9483cfcd9312614fb2bc58450a48649) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '8fcabbd5526102c826c17ef1d8c75eee') in 0.009891 seconds
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:26a9b93f7c617196ae2d1fe3a557aabd
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:26a9b93f7c617196ae2d1fe3a557aabd
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/arm64-v8a using Guid(0c54cb4511b95e14dba9fe7e4f0bafb4) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '2cf1e69fe30bee352490498a1821749b') in 0.009610 seconds
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:d40542424dd84c5b7acb038ba69038bd
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:d40542424dd84c5b7acb038ba69038bd
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/Debug using Guid(1d7f1aecabca0ea4fa128ccdc22cb472) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '1e4d72bec2bbfc0c55bc2620695f4968') in 0.008669 seconds
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:eadca27044c122ca6a5a5e824d9c1ec9
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:eadca27044c122ca6a5a5e824d9c1ec9
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/x86 using Guid(2e3ca6fb7fc4bbe4da34387c4f2c94f1) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '8e626c9b2672f1a1de629b35537ed5fd') in 0.008495 seconds
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:3d45579d580995c2cc9a9cd79fd07b74
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:3d45579d580995c2cc9a9cd79fd07b74
+Querying for cacheable assets in Cache Server:
+	339e088e100763f48a48339d604e1d05:Assets/Wwise/API/Runtime/Plugins/Android/armeabi-v7a/Profile
+	e32635dda0ff809479e7c221e364936a:Assets/Wwise/API/Runtime/Plugins/Android/x86/DSP
+	64f381d8bb4d7a343a57d8193b2cba9e:Assets/Wwise/API/Runtime/Plugins/Android/armeabi-v7a/DSP
+	077a57f34f6705a42b1eca1f6337eb46:Assets/Wwise/API/Runtime/Plugins/Android/arm64-v8a/Profile
+	08b11dcface161b49b4d87da13b38dc1:Assets/Wwise/API/Runtime/Plugins/Android/armeabi-v7a/Debug
+	68ef3d7faf92fdf4ebe2f6f5c74d9bd3:Assets/Wwise/API/Runtime/Plugins/Android/arm64-v8a/Release
+	c9fbbcf6a730efa44af27df911b892a9:Assets/Wwise/API/Runtime/Plugins/Android/x86/Release
+	5a3efe5ad8f346344b8c166fb1a9ec6b:Assets/Wwise/API/Runtime/Plugins/Android/arm64-v8a/Debug
+	8acc8237a68c05a459f42c4805fb68d9:Assets/Wwise/API/Runtime/Plugins/Android/x86/Debug
+	8b2c2ca9f7547624b8d3018c1fb6d351:Assets/Wwise/API/Runtime/Plugins/Android/x86/Profile
+	8d0d644189948794fa7eb5e8e3eab79d:Assets/Wwise/API/Runtime/Plugins/Android/arm64-v8a/DSP
+	6e19288d0ee3c2e49ac9394a808f817e:Assets/Wwise/API/Runtime/Plugins/Android/armeabi-v7a/Release
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:8288dae6ce1018a2747be9335085c904
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:74a8429144e38a2ebaa107800e03a98a
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:04f21252ee98bdef3847a53d6b8c625f
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:83f13b6cf1e5ae7238a033d694846970
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:2e4400a7fa060b3bcce0638745f1b13d
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:9ee7220810cda8067a5bc0e5d3ce691a
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:961067f4ef9eba0049cd3ad1f9cff3a7
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:d0e583604a8d8e6c34bab4c226549b77
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:966c68ab1e57481cbb1cb43055db22be
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:18ad66e1244dcbb06958b5cc2ac4f5a4
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:56b583ac6e13f609b5358b3457bc6906
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:207c9131cb3d043604ced58e064f03a3
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/armeabi-v7a/Profile using Guid(339e088e100763f48a48339d604e1d05) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'b113401ec133b7450ced97f390bdcba0') in 0.008651 seconds
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:14dcbd541f87f440410816d610f080c0
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:14dcbd541f87f440410816d610f080c0
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/x86/DSP using Guid(e32635dda0ff809479e7c221e364936a) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '03460a43570490ca985e5f8ee70b47b5') in 0.009166 seconds
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:892818db8dcdfc98883305363963005e
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:892818db8dcdfc98883305363963005e
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/armeabi-v7a/DSP using Guid(64f381d8bb4d7a343a57d8193b2cba9e) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'ddee0146887620ce54099f0ee7ee70b6') in 0.008829 seconds
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:7b7db6d9a91e9123e76190c05a181227
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:7b7db6d9a91e9123e76190c05a181227
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/arm64-v8a/Profile using Guid(077a57f34f6705a42b1eca1f6337eb46) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '25bf501dfffdf8a282b096db225ac13d') in 0.008304 seconds
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:91ea4abe6dbc84ab0810cfa193c94080
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:91ea4abe6dbc84ab0810cfa193c94080
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/armeabi-v7a/Debug using Guid(08b11dcface161b49b4d87da13b38dc1) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'd677f8480372990bbd10659179641450') in 0.009153 seconds
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:270f763bd0c7e3b7a7d2816bcabef3cd
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:270f763bd0c7e3b7a7d2816bcabef3cd
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/arm64-v8a/Release using Guid(68ef3d7faf92fdf4ebe2f6f5c74d9bd3) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '4cdab30336cebca10864609ed9979889') in 0.008292 seconds
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:21ce0b2838da386e9c09e8be9fb2b244
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:21ce0b2838da386e9c09e8be9fb2b244
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/x86/Release using Guid(c9fbbcf6a730efa44af27df911b892a9) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '7b4dafcb00b990688af99fa10fa26c17') in 0.009220 seconds
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:b95eac1407670c2dcacba440725ce59a
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:b95eac1407670c2dcacba440725ce59a
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/arm64-v8a/Debug using Guid(5a3efe5ad8f346344b8c166fb1a9ec6b) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '817d2278c7ede607ced8c642fc70e2f9') in 0.008777 seconds
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:3d7e93807ad53877bf390351b1d4aec5
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:3d7e93807ad53877bf390351b1d4aec5
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/x86/Debug using Guid(8acc8237a68c05a459f42c4805fb68d9) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '7d66742d0748f428b80c2ca636daceed') in 0.009496 seconds
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:12004976fe297af13f752e445302497b
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:12004976fe297af13f752e445302497b
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/x86/Profile using Guid(8b2c2ca9f7547624b8d3018c1fb6d351) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '906c50f31600e154b169f18fdd11e926') in 0.009301 seconds
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:82a005ae1974f6a21da2b072fadfd60d
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:82a005ae1974f6a21da2b072fadfd60d
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/arm64-v8a/DSP using Guid(8d0d644189948794fa7eb5e8e3eab79d) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'f48d8f316f360b36afcaea34b20e1160') in 0.008412 seconds
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:263048c94143cfc41b098af63cda2815
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:263048c94143cfc41b098af63cda2815
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/armeabi-v7a/Release using Guid(6e19288d0ee3c2e49ac9394a808f817e) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '4fb2b4685a5af4453f6f3b4b00443ebb') in 0.007572 seconds
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:1191fff938b43db400eba51ee96f4030
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:1191fff938b43db400eba51ee96f4030
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/armeabi-v7a/DSP/libMcDSP.so using Guid(302f6233fdef3f940a627bc35d688cb9) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '31b5cb8ba255cb87190e51dfaf42ee5c') in 0.018976 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/Release/libAkSoundEngine.a using Guid(60549a96af68aa940ae91d0b6866bf21) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'b130fcc510395df2d412e6d34380f931') in 0.018230 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/libiZTrashFiltersFX.a using Guid(f0c5f969f02ce884a821bd87bad9bc74) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '74ddad721bc9136f977912a31aea603f') in 0.032834 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/x86/Profile/libAkSoundEngine.so using Guid(51040e33438efec4c9dd7ad1fbcfb69e) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'c07b83644a8b5f04fedf044c733733cc') in 0.017111 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/iZTrashDelayFXFactory.h using Guid(7199ebfc8a09139478cbafd8a7a1aaf9) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '5f0da4a4d6a4aa446ebc0fe302b24edd') in 0.021145 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/arm64-v8a/Release/libAkSoundEngine.so using Guid(4250289edb20bbc4e88a53b6e99cf19e) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '1da41088d8991ab1b02eaa1c84d7d2cb') in 0.017831 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/arm64-v8a/Debug/libAkSoundEngine.so using Guid(822ca5116c1fc4544bb71bd48f05312c) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '69d4ced8b21705230db32c685bccf9c3') in 0.017262 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/AkSynthOneSourceFactory.h using Guid(c2387658d610a864c81536bff02fe2d8) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'b2541a9613ad1ecfe2c97a57fa6150c5') in 0.018206 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/AkSoundSeedGrainSourceFactory.h using Guid(d2d8e1f70ca1a314bb5ed7de41d73392) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '833dc307a1d31cb3b83311f56fae8a20') in 0.019069 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/x86/DSP/libAkSoundSeedAir.so using Guid(f2e8f14b1d100de44a583daa51e548ed) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '86ed19124fb0640f32edfac0d21105d6') in 0.018530 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/libAkSoundSeedGrainSource.a using Guid(03c5a4757048c9e43939608aecf1b527) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'd4970fd372316fd14a4679153b94aa5d') in 0.018943 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/Profile/libAkSoundEngine.a using Guid(03ce48843f1c011479d09ea6a84ac630) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'b8766f5ada93b5775525202b424a8818') in 0.017436 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/iZTrashDynamicsFXFactory.h using Guid(5325b6cce66d186478eab75c3d4846c5) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '0ecea6460331446defae707c23d324ee') in 0.019207 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/x86/DSP/libAkConvolutionReverb.so using Guid(73271db9c0683b44da1c0ca8e80463b0) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'c1ea41ee62349bbd419f98e834ff79b9') in 0.019851 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/AkSoundSeedImpactFXFactory.h using Guid(54619b45c2998ce48bead034a257b7b9) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '397935fb5a53c15d0f5869f8898d21f3') in 0.020352 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/libAuroHeadphoneFX.a using Guid(74559dd5a3909da4797a737fe3731b4c) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '9feb45fef97fae887778f361727a952e') in 0.018799 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/arm64-v8a/DSP/libMcDSP.so using Guid(843974055f8915d4688cfeb1f137e334) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '3cc0996a2247621e452c6712f686ec5c') in 0.016587 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/x86/DSP/libAkSoundSeedImpact.so using Guid(946bd138fae2df4429adbd4eb8bbb170) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'f39714d6bcfd62b29739326664facf81') in 0.018399 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/libAkSoundSeedWindSource.a using Guid(a588adbb2df3a834d8a22d7557c37554) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '4712015fc9030f16df2ab2974b97f1cb') in 0.018001 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/libAkSynthOneSource.a using Guid(261f400bfb61d024dad47bea1db304de) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '5f2381cd0fa41acb1fc340fb219b6e64') in 0.019087 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/arm64-v8a/DSP/libiZotope.so using Guid(36e7dede363d0e54c8bad19ced7b36b2) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'd83b5b11ae599bcc9dc435236a88a882') in 0.017371 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/iZTrashFiltersFXFactory.h using Guid(468d288216ca78942936107407d05941) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '97354de646a615e22583302064cd07ac') in 0.017194 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/AkSoundSeedWooshSourceFactory.h using Guid(765de64543dcf8049bf612dad432f77a) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '8bfcb7057b8ce6742506dc103b8e472d') in 0.018870 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/AuroHeadphoneFXFactory.h using Guid(d65953ee81d21f94da3b4200a60404f5) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'c7816c50b6d30f9c48a011c72e87f1da') in 0.016994 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/libAkSoundSeedWooshSource.a using Guid(e6080eaaef2637944ae8034f0f947723) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'c68f47c60ed02e32ca1136ff80916df1') in 0.017332 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/armeabi-v7a/Profile/libAkSoundEngine.so using Guid(f6f5821098b88704a94818e2c924a1ea) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '43563ad33ac44488fc5653e1ca76c804') in 0.016977 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/libMcDSPLimiterFX.a using Guid(17b08027a2820af4abd0ef970dfd2128) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '30e3824865536dcb3c97cb7a88f8ad27') in 0.031220 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/McDSPLimiterFXFactory.h using Guid(576c5146aa1f6cb4b83da94a865ea14f) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '6a03ad808d200db342bd24fa84a36d05') in 0.016541 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/libiZTrashDelayFX.a using Guid(87f06d05fd5ace94db07c5373836a2bc) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '16d1af569842164dc1a6f36b816d944c') in 0.016795 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/AkConvolutionReverbFXFactory.h using Guid(87a399e121176c044b16b2ebeb82918d) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '9602658470a10b9797059de63b7d86da') in 0.020341 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/MasteringSuiteFXFactory.h using Guid(97e87da05fdd5284cb850d2708e87f0c) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '259e52dd99dd4d83a9c141fec3861585') in 0.021323 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/arm64-v8a/DSP/libAkSoundSeedGrain.so using Guid(c712d2254e69e7942a1ad774e01dca5d) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'fb09bd06697c58f1da5985ee643ed664') in 0.020385 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/armeabi-v7a/DSP/libAkSoundSeedGrain.so using Guid(08f94b1f2f040e647a091ed8e93fbabd) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '4bfc7feb6e83785ab1266891e8e1be57') in 0.020231 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/iZHybridReverbFXFactory.h using Guid(18150cdb99f0c5a4383283c153f74c15) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '275cc29d3572ed8f2f0ad0b82c3fb765') in 0.019969 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/iZTrashBoxModelerFXFactory.h using Guid(18759d95dd197a14081cdeb3116cddc8) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'c4ee8348cb6dd9b912c35b2781fb3701') in 0.016550 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/arm64-v8a/DSP/libAkConvolutionReverb.so using Guid(38f4d700480fa6f488cf610f8689e0d2) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'f917eb869f1b9d8418a3cc4e454b593c') in 0.016908 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/arm64-v8a/DSP/libAkSoundSeedImpact.so using Guid(d8e76652d84ce2140b604494cff826f1) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'abc7e6037897b7a14fda5eec047d174f') in 0.017101 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/libiZHybridReverbFX.a using Guid(e8625e6a6c4f964469e30c745daac7f2) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'afbbc83557e278970017744d457b05f0') in 0.018078 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/Debug/libAkSoundEngine.a using Guid(f842d1e734037f2459f253bab07914f9) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '92b70123f9bc5063ffdf7e7136afeabb') in 0.014996 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/armeabi-v7a/Release/libAkSoundEngine.so using Guid(993376c305f7b274f8637d796d485e44) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '1a69653390f9c681a3c97248f025486d') in 0.016665 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/libAkSoundSeedImpactFX.a using Guid(993cd0a28afd4d1489d9fbffa71a3d15) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'cbb3b368692f3a3ba979c3a017145307') in 0.019330 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/armeabi-v7a/DSP/libAkConvolutionReverb.so using Guid(c969800d99c98034faf90b00f0cc844a) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '04f46082779238d9de4b4e7991c895e3') in 0.017176 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/x86/DSP/libMcDSP.so using Guid(0a597d6ea19b27543bc508d374a48d7e) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '902b7e23fca29e5f9f6564adfeee7597') in 0.016737 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/armeabi-v7a/DSP/libAkMotion.so using Guid(aa95166b0648f4943acc7f1894c618d8) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '963332da1896bc622665dadecccb4e5b') in 0.017339 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/arm64-v8a/DSP/libAkMotion.so using Guid(ea30fb63ec3a54c4a8f32156163fe238) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '0a4787b6f8b759f4c4b4d29c2bf470d6') in 0.017323 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/x86/Release/libAkSoundEngine.so using Guid(1b69beda08a89ba48aa2bf32e71fcae7) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '719664b17d53d09c347ef82c009477c8') in 0.017323 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/iZTrashDistortionFXFactory.h using Guid(1bba5f7ce62131f4688bd355c30ed841) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '118a84c652308bc227f80512e0b137d5') in 0.017268 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/arm64-v8a/Profile/libAkSoundEngine.so using Guid(7b8a4983aae6560449f27402a2122d90) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '354f7d16447e882bc811b0ecb145b1c2') in 0.018569 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/arm64-v8a/DSP/libAkSoundSeedAir.so using Guid(1c8c766277d017b43bca9678754b6664) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '951ba9ad6138884b022f58eec22fdc64') in 0.017450 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/libiZTrashMultibandDistortionFX.a using Guid(2ccea7271e9bf5f4c9fc551a6c40e1cd) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'e6b2df7e1bb1ffd1145c7b93341d2c27') in 0.018801 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/x86/Debug/libAkSoundEngine.so using Guid(6cd97b860831d0e44a9db5541c6bf626) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '4180b3b8d908b74becf4273ba859c1a4') in 0.016806 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/McDSPFutzBoxFXFactory.h using Guid(9c0b724448bce6742989f617c8195151) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '8ca37cd84354f27cc5339480aed37742') in 0.016145 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/x86/DSP/libAkMotion.so using Guid(bc04a2ad2d717ea4d9e90cdd2339821c) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '5fdfabd050d716a870267a7c913e71eb') in 0.016883 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/armeabi-v7a/DSP/libAkSoundSeedAir.so using Guid(bc4e441c9eda2f54bbcfd60975e6ee89) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '3b16c64b703bd768af486d5b6f84939d') in 0.017287 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/x86/DSP/libAuro.so using Guid(eca75637a6feb2b4d9da682e0bfc9194) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '36b398aea9a316627fd80ac4500a9cf9') in 0.017282 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/libiZTrashBoxModelerFX.a using Guid(0d03dfa44f962a746b2b4870ffe5b34d) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '9f81ea1123d3a29f78a6b57391569da8') in 0.016379 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/libiZTrashDistortionFX.a using Guid(1d0df8480ce63b24fb741cef0f89b64c) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'e4efaa65b1c991de65dc9e102bd97c88') in 0.017056 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/iZTrashMultibandDistortionFXFactory.h using Guid(3d9fd25075e5b5e419801402e1c6f7d3) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'aab97f3a30f51d7bd516075504a700e2') in 0.018559 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/libAkConvolutionReverbFX.a using Guid(4db4c91944af8064d88f078004a8ace4) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '2799cc04184c04607384ef85d0bbfbb9') in 0.019402 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/armeabi-v7a/Debug/libAkSoundEngine.so using Guid(7d27ba9881899b3409a6cb1dbc965493) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '3b3d8eb5895515f06f4e5ba04968bd6d') in 0.019150 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/x86/DSP/libiZotope.so using Guid(dd16b55d41ea74847a43bfc9d5d3244d) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'e20949884518c2007bc160935fbb0412') in 0.020853 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/armeabi-v7a/DSP/libAkSoundSeedImpact.so using Guid(2ead483c93b00b047b17979465720726) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '6c7108c0d89d32c1062a393642a6e13e') in 0.017912 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/x86/DSP/libAkSoundSeedGrain.so using Guid(3e99355411936894d94a7445fa27b026) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'c91e4856bb10f0411c2b32d18e658828') in 0.017722 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/arm64-v8a/DSP/libAuro.so using Guid(4ea158cbc4fb72c45bce229108e05f27) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'fe229158563826f8e5beebe4194dfd20') in 0.018689 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/AkSoundSeedWindSourceFactory.h using Guid(dee27e0b88656a14f8c7567ec5ab359c) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'd171738258b044c43f3a9c463fef5aa3') in 0.018326 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/armeabi-v7a/DSP/libiZotope.so using Guid(fed280c09b40b2148a7db7b2e7fe60fa) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '8452731bcb53a68d9c57dc1b6de45dbc') in 0.017216 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/libMcDSPFutzBoxFX.a using Guid(1f3831f5b8fbce243abd523eab5726d7) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'd7ef8c1ee5ec3cec73759187773e23b8') in 0.017195 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/libiZTrashDynamicsFX.a using Guid(cfcb9e11762bb164c9a3bee2234e2330) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'ab3874beca2c0b1d997ac75042fbfc04') in 0.017138 seconds
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/armeabi-v7a/DSP/libAuro.so using Guid(df9401df2ec17d541a741eacc2db88da) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '45bf7e8e6780ca53481fcd262097fd0d') in 0.015953 seconds
+Querying for cacheable assets in Cache Server:
+	10f6cb7e979dbec4fb0b72ead4f6f49f:Assets/Wwise/API/Runtime/Generated/iOS/AkAudioSessionCategory_iOS.cs
+	5010fabcf1d559242b20f0987a612508:Assets/Wwise/API/Runtime/Generated/Android/AkSoundEngine_Android.cs
+	c006cd4d8b6826d4a8f0acaf10539557:Assets/Wwise/API/Runtime/Generated/iOS/AkPlatformInitSettings_iOS.cs
+	d2857c28bc9b8f048a7c1ddc3a0ad7bd:Assets/Wwise/API/Runtime/Generated/Android/AkPlatformInitSettings_Android.cs
+	23047663a3b794e40a6bc3f48f520346:Assets/Wwise/API/Runtime/Handwritten/Android/AkSoundEngine.cs
+	33434bc190560b146bf99379986a1a65:Assets/Wwise/API/Runtime/Handwritten/Android/AkAndroidSettings.cs
+	251e7cf4baee5a34a8e5b5c0555ada6c:Assets/Wwise/API/Runtime/Generated/iOS/AkAudioSessionProperties_iOS.cs
+	f516a7dfac42d2b4e829a2aa8ec77ae0:Assets/Wwise/API/Runtime/Handwritten/Android/AkAndroidBasePathGetter.cs
+	47114c25b5f1d0b4899f0bd0c19c97bd:Assets/Wwise/API/Runtime/Generated/iOS/AkSoundEnginePINVOKE_iOS.cs
+	c7cb657fe2b69c3439d94438e43ed001:Assets/Wwise/MonoBehaviour/Editor/EditorPlatformHelpers/Android/AkAndroidPluginActivator.cs
+	38728e267592b5944a500dfbe2d835b6:Assets/Wwise/API/Runtime/Generated/iOS/AkSoundEngine_iOS.cs
+	e82f451e51899004cb471579ee6123e4:Assets/Wwise/API/Runtime/Generated/iOS/AkAudioSessionCategoryOptions_iOS.cs
+	09ed34dd09d919c41bdf39868cc19d99:Assets/Wwise/API/Runtime/Generated/Android/AkCommunicationSettings_Android.cs
+	c9265f49a50d72346829c5db198b5947:Assets/Wwise/API/Runtime/Handwritten/iOS/AkiOSSettings.cs
+	4adf25e37c8db9c4698d5c73d970d850:Assets/Wwise/API/Runtime/Generated/iOS/AkThreadProperties_iOS.cs
+	8a3ce1b40e9875e4bbe75c871c0ba16a:Assets/Wwise/MonoBehaviour/Editor/EditorPlatformHelpers/iOS/AkiOSPluginActivator.cs
+	ca7a3b2717a908444b6cff27706087c1:Assets/Wwise/API/Runtime/Handwritten/iOS/AkiOSBasePathGetter.cs
+	cc36b3f97afde6f4993f19adc48fea1e:Assets/Wwise/API/Runtime/Generated/iOS/AkCommunicationSettings_iOS.cs
+	3d6a6467149a5a540b6e715eb35bb22f:Assets/Wwise/API/Runtime/Generated/Android/AkAudioAPI_Android.cs
+	3d0c406fa9e8a3847890ab6c78a22a1b:Assets/Wwise/API/Runtime/Generated/iOS/AkUnityPlatformSpecificSettings_iOS.cs
+	6dddc27a7ebbb2048ad7ff1bb88c6960:Assets/Wwise/API/Runtime/Generated/iOS/AkAudioSessionMode_iOS.cs
+	9ddd9223353975449923585fbd5b15ca:Assets/Wwise/API/Runtime/Generated/Android/AkSoundEnginePINVOKE_Android.cs
+	3e0e5bd6edf9ff74ca4d1b8347de5a2f:Assets/Wwise/API/Runtime/Handwritten/iOS/AkSoundEngine.cs
+	5e55dc2fdec4c5d4da708dac53e8f22d:Assets/Wwise/API/Runtime/Generated/Android/AkUnityPlatformSpecificSettings_Android.cs
+	9e0088d2450029b45a53b96d86ec47dd:Assets/Wwise/API/Editor/WwiseMenu/Android/AkWwiseMenu_Android.cs
+	9e76d3f43a783584da3ee602e59d8b3d:Assets/Wwise/API/Runtime/Generated/iOS/AkAudioSessionSetActiveOptions_iOS.cs
+	4fafa9be7e639c547b8906a313225064:Assets/Wwise/API/Editor/WwiseMenu/iOS/AkWwiseMenu_iOS.cs
+	5feaff8214e63d24e93e92690bab477b:Assets/Wwise/API/Runtime/Generated/Android/AkThreadProperties_Android.cs
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:70d0b3edcc8033970a5cf0110ca9f198
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:c433d0ae3e4af416feb4692fc014b702
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:bd39b3e7eef0e23e7ac2b1ae61359e58
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:057d20ad1b08b9cd772da3ee07d8f9ef
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:ef9decbbf0965343dc785697cf6462b2
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:52b5122277cb5f64cd1688ef7f0dd0a2
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:3776c6da11ea7cc1359eceb26644f94c
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:8e359ee1d69e794bab356bcded93dcaf
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:b0980028eeeb404acfd07b4e202aadb6
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:918aa544e13894e2f42f05939ab44299
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:61c27a37dc1509d291ea936432ce9792
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:ee79ae1fb02e66cc7e8e14c7d783449e
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:c9af621bfc221fdfc5968f11088addff
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:f07e8e6633994e60452c20acb0c45b0a
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:10085b6257b91c276f84101ca3898bf1
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:56cbf7b899052bf8735fcbeef5b585d2
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:607ee320aab7a36e0a6d69ca20bc109e
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:2e76f85d7d291aa2edffbbb750a76882
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:4a2f444eaccabe09c9675e0c1d3f7630
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:8a076a21eff2f1468bd4f127baa59ff5
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:5a1a5f16a55332ab3310dd08bc7c7866
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:38f74f608dd8e7a6acf0c7db49c69a2e
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:cb41e587270fb0fddfdba12346a81d45
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:f16f987d582033975bfd684260cd4949
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:7774245fd6bf2aae8e1126bdf65fc6ae
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:60e0cd0293c52b81c461694b9f304446
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:c88d8fa0af93f9b8971759f28920a0c2
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:9bad4e93cb5fe41a7addde88ec906218
+Start importing Assets/Wwise/API/Runtime/Generated/iOS/AkAudioSessionCategory_iOS.cs using Guid(10f6cb7e979dbec4fb0b72ead4f6f49f) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '6965bb668e0ae29346801a43e259799d') in 0.017423 seconds
+RemoteAssetCache::AddArtifactToCacheServer - artifactKey='Guid(10f6cb7e979dbec4fb0b72ead4f6f49f) Importer(-1,00000000000000000000000000000000)' Artifact id='6965bb668e0ae29346801a43e259799d' Key (and library path)='Library/Artifacts/0b/0bf57bf719b6e35c38a3fa464d62ad90'
+RemoteAssetCache - Upload - Artifact - success:true, namespace:defaultmetadata, key:0bf57bf719b6e35c38a3fa464d62ad90
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:4d1508c129b67f3c2056fc1b2d747fd4
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:4d1508c129b67f3c2056fc1b2d747fd4
+Start importing Assets/Wwise/API/Runtime/Generated/Android/AkSoundEngine_Android.cs using Guid(5010fabcf1d559242b20f0987a612508) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '649228189fb02a66c96f20ca4408bec8') in 0.016613 seconds
+RemoteAssetCache::AddArtifactToCacheServer - artifactKey='Guid(5010fabcf1d559242b20f0987a612508) Importer(-1,00000000000000000000000000000000)' Artifact id='649228189fb02a66c96f20ca4408bec8' Key (and library path)='Library/Artifacts/3c/3c707aeba9c3c6bef38de158dbe0d343'
+RemoteAssetCache - Upload - Artifact - success:true, namespace:defaultmetadata, key:3c707aeba9c3c6bef38de158dbe0d343
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:540d5196c4027d715303314a2bf3de65
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:540d5196c4027d715303314a2bf3de65
+Start importing Assets/Wwise/API/Runtime/Generated/iOS/AkPlatformInitSettings_iOS.cs using Guid(c006cd4d8b6826d4a8f0acaf10539557) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '71519eebf99ae824acd785de8c55d209') in 0.013524 seconds
+RemoteAssetCache::AddArtifactToCacheServer - artifactKey='Guid(c006cd4d8b6826d4a8f0acaf10539557) Importer(-1,00000000000000000000000000000000)' Artifact id='71519eebf99ae824acd785de8c55d209' Key (and library path)='Library/Artifacts/04/0440c1b073da12373de9d6b742778976'
+RemoteAssetCache - Upload - Artifact - success:true, namespace:defaultmetadata, key:0440c1b073da12373de9d6b742778976
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:f9a1ad940dadd71db80084b0fae410ca
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:f9a1ad940dadd71db80084b0fae410ca
+Start importing Assets/Wwise/API/Runtime/Generated/Android/AkPlatformInitSettings_Android.cs using Guid(d2857c28bc9b8f048a7c1ddc3a0ad7bd) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '11f013c7c0e725a594db4a1ddd24081e') in 0.013908 seconds
+RemoteAssetCache::AddArtifactToCacheServer - artifactKey='Guid(d2857c28bc9b8f048a7c1ddc3a0ad7bd) Importer(-1,00000000000000000000000000000000)' Artifact id='11f013c7c0e725a594db4a1ddd24081e' Key (and library path)='Library/Artifacts/14/14e864cff63470a381de1235bc144674'
+RemoteAssetCache - Upload - Artifact - success:true, namespace:defaultmetadata, key:14e864cff63470a381de1235bc144674
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:7d10fc5211a008517dff0b297ac3b3e2
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:7d10fc5211a008517dff0b297ac3b3e2
+Start importing Assets/Wwise/API/Runtime/Handwritten/Android/AkSoundEngine.cs using Guid(23047663a3b794e40a6bc3f48f520346) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'c9f7d467b5ad3e046e2d5f22c77f692f') in 0.013914 seconds
+RemoteAssetCache::AddArtifactToCacheServer - artifactKey='Guid(23047663a3b794e40a6bc3f48f520346) Importer(-1,00000000000000000000000000000000)' Artifact id='c9f7d467b5ad3e046e2d5f22c77f692f' Key (and library path)='Library/Artifacts/c2/c28ffdd5748e55858aabeb70b391fc52'
+RemoteAssetCache - Upload - Artifact - success:true, namespace:defaultmetadata, key:c28ffdd5748e55858aabeb70b391fc52
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:08b49ebd651f3443a8d99af6ecbe08e5
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:08b49ebd651f3443a8d99af6ecbe08e5
+Start importing Assets/Wwise/API/Runtime/Handwritten/Android/AkAndroidSettings.cs using Guid(33434bc190560b146bf99379986a1a65) Importer(-1,00000000000000000000000000000000) There are inconsistent line endings in the 'Assets/Wwise/API/Runtime/Handwritten/Android/AkAndroidSettings.cs' script. Some are Mac OS X (UNIX) and some are Windows.
+This might lead to incorrect line numbers in stacktraces and compiler errors. Many text editors can fix this using Convert Line Endings menu commands.
+
+ -> (artifact id: '266e9771cdbae4913628c367e01850ec') in 0.020854 seconds
+RemoteAssetCache::AddArtifactToCacheServer - artifactKey='Guid(33434bc190560b146bf99379986a1a65) Importer(-1,00000000000000000000000000000000)' Artifact id='266e9771cdbae4913628c367e01850ec' Key (and library path)='Library/Artifacts/31/31b430c934de3dcbb5d408cc5ecf86cd'
+RemoteAssetCache - Upload - Artifact - success:true, namespace:defaultmetadata, key:31b430c934de3dcbb5d408cc5ecf86cd
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:156c8f703633ec16f9b9f6dc8529cae3
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:156c8f703633ec16f9b9f6dc8529cae3
+Start importing Assets/Wwise/API/Runtime/Generated/iOS/AkAudioSessionProperties_iOS.cs using Guid(251e7cf4baee5a34a8e5b5c0555ada6c) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'aade9461076fcc7084d099de7aa01847') in 0.015318 seconds
+RemoteAssetCache::AddArtifactToCacheServer - artifactKey='Guid(251e7cf4baee5a34a8e5b5c0555ada6c) Importer(-1,00000000000000000000000000000000)' Artifact id='aade9461076fcc7084d099de7aa01847' Key (and library path)='Library/Artifacts/51/51f52162d77752df7b173dd717b8d795'
+RemoteAssetCache - Upload - Artifact - success:true, namespace:defaultmetadata, key:51f52162d77752df7b173dd717b8d795
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:96cbf2780742bea9bf43cd3942c2e7a8
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:96cbf2780742bea9bf43cd3942c2e7a8
+Start importing Assets/Wwise/API/Runtime/Handwritten/Android/AkAndroidBasePathGetter.cs using Guid(f516a7dfac42d2b4e829a2aa8ec77ae0) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'bac91f8a9257dc4589a7288f0b9f157a') in 0.014604 seconds
+RemoteAssetCache::AddArtifactToCacheServer - artifactKey='Guid(f516a7dfac42d2b4e829a2aa8ec77ae0) Importer(-1,00000000000000000000000000000000)' Artifact id='bac91f8a9257dc4589a7288f0b9f157a' Key (and library path)='Library/Artifacts/5c/5c29c56efd41d127b28f00022d3c1ecf'
+RemoteAssetCache - Upload - Artifact - success:true, namespace:defaultmetadata, key:5c29c56efd41d127b28f00022d3c1ecf
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:ee823b8a0e0830b217bbe1d083b7710a
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:ee823b8a0e0830b217bbe1d083b7710a
+Start importing Assets/Wwise/API/Runtime/Generated/iOS/AkSoundEnginePINVOKE_iOS.cs using Guid(47114c25b5f1d0b4899f0bd0c19c97bd) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '4e15528892c0ab6b1a5ea70d0eb95e3b') in 0.027917 seconds
+RemoteAssetCache::AddArtifactToCacheServer - artifactKey='Guid(47114c25b5f1d0b4899f0bd0c19c97bd) Importer(-1,00000000000000000000000000000000)' Artifact id='4e15528892c0ab6b1a5ea70d0eb95e3b' Key (and library path)='Library/Artifacts/b6/b65ccfa9571a5c6988ed6fb66c307dc7'
+RemoteAssetCache - Upload - Artifact - success:true, namespace:defaultmetadata, key:b65ccfa9571a5c6988ed6fb66c307dc7
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:0800973a8ac131dc27983f8f6da72acb
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:0800973a8ac131dc27983f8f6da72acb
+Start importing Assets/Wwise/MonoBehaviour/Editor/EditorPlatformHelpers/Android/AkAndroidPluginActivator.cs using Guid(c7cb657fe2b69c3439d94438e43ed001) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'f9399377ce5243bb3f16a632879f5a54') in 0.015995 seconds
+RemoteAssetCache::AddArtifactToCacheServer - artifactKey='Guid(c7cb657fe2b69c3439d94438e43ed001) Importer(-1,00000000000000000000000000000000)' Artifact id='f9399377ce5243bb3f16a632879f5a54' Key (and library path)='Library/Artifacts/0b/0b786aaec5024c9a4072aecad44322b4'
+RemoteAssetCache - Upload - Artifact - success:true, namespace:defaultmetadata, key:0b786aaec5024c9a4072aecad44322b4
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:e90e3cf07c6cb52fb3b143648a091ea2
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:e90e3cf07c6cb52fb3b143648a091ea2
+Start importing Assets/Wwise/API/Runtime/Generated/iOS/AkSoundEngine_iOS.cs using Guid(38728e267592b5944a500dfbe2d835b6) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '95b85d2607ba9817070621728225ce11') in 0.021538 seconds
+RemoteAssetCache::AddArtifactToCacheServer - artifactKey='Guid(38728e267592b5944a500dfbe2d835b6) Importer(-1,00000000000000000000000000000000)' Artifact id='95b85d2607ba9817070621728225ce11' Key (and library path)='Library/Artifacts/e3/e30881ea3ac3717627f0f48854dc5041'
+RemoteAssetCache - Upload - Artifact - success:true, namespace:defaultmetadata, key:e30881ea3ac3717627f0f48854dc5041
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:ff1972fa9af04107bc540e0f59738a99
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:ff1972fa9af04107bc540e0f59738a99
+Start importing Assets/Wwise/API/Runtime/Generated/iOS/AkAudioSessionCategoryOptions_iOS.cs using Guid(e82f451e51899004cb471579ee6123e4) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'a47f4b05e2dfdab07ba2d9cc12564a07') in 0.015203 seconds
+RemoteAssetCache::AddArtifactToCacheServer - artifactKey='Guid(e82f451e51899004cb471579ee6123e4) Importer(-1,00000000000000000000000000000000)' Artifact id='a47f4b05e2dfdab07ba2d9cc12564a07' Key (and library path)='Library/Artifacts/f7/f766d15761dd0cdf3060684fc93be522'
+RemoteAssetCache - Upload - Artifact - success:true, namespace:defaultmetadata, key:f766d15761dd0cdf3060684fc93be522
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:bbf99b20e43d0bb747f01dc67683776f
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:bbf99b20e43d0bb747f01dc67683776f
+Start importing Assets/Wwise/API/Runtime/Generated/Android/AkCommunicationSettings_Android.cs using Guid(09ed34dd09d919c41bdf39868cc19d99) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '67dc267036a8ebc900097d552fd7129e') in 0.015926 seconds
+RemoteAssetCache::AddArtifactToCacheServer - artifactKey='Guid(09ed34dd09d919c41bdf39868cc19d99) Importer(-1,00000000000000000000000000000000)' Artifact id='67dc267036a8ebc900097d552fd7129e' Key (and library path)='Library/Artifacts/29/299155c10337aa692d82e1f08ff4f1d4'
+RemoteAssetCache - Upload - Artifact - success:true, namespace:defaultmetadata, key:299155c10337aa692d82e1f08ff4f1d4
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:289794525abd281d85cbd3bc7f946d19
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:289794525abd281d85cbd3bc7f946d19
+Start importing Assets/Wwise/API/Runtime/Handwritten/iOS/AkiOSSettings.cs using Guid(c9265f49a50d72346829c5db198b5947) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'ae3dc98d0517029dbbf07bcee5baf388') in 0.014140 seconds
+RemoteAssetCache::AddArtifactToCacheServer - artifactKey='Guid(c9265f49a50d72346829c5db198b5947) Importer(-1,00000000000000000000000000000000)' Artifact id='ae3dc98d0517029dbbf07bcee5baf388' Key (and library path)='Library/Artifacts/b1/b1f16dffdfa40884f693dd37ec98499f'
+RemoteAssetCache - Upload - Artifact - success:true, namespace:defaultmetadata, key:b1f16dffdfa40884f693dd37ec98499f
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:821ea654d8e7e27c2a28312fac1bf65a
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:821ea654d8e7e27c2a28312fac1bf65a
+Start importing Assets/Wwise/API/Runtime/Generated/iOS/AkThreadProperties_iOS.cs using Guid(4adf25e37c8db9c4698d5c73d970d850) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '96eb699f2d8b76deefa3cf252f61250d') in 0.012938 seconds
+RemoteAssetCache::AddArtifactToCacheServer - artifactKey='Guid(4adf25e37c8db9c4698d5c73d970d850) Importer(-1,00000000000000000000000000000000)' Artifact id='96eb699f2d8b76deefa3cf252f61250d' Key (and library path)='Library/Artifacts/6c/6c7389a6ec40b973b48077b790a2efd3'
+RemoteAssetCache - Upload - Artifact - success:true, namespace:defaultmetadata, key:6c7389a6ec40b973b48077b790a2efd3
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:ee755508e38b260a46a263310571fac8
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:ee755508e38b260a46a263310571fac8
+Start importing Assets/Wwise/MonoBehaviour/Editor/EditorPlatformHelpers/iOS/AkiOSPluginActivator.cs using Guid(8a3ce1b40e9875e4bbe75c871c0ba16a) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '73619bca168924d0360a4e9b275e4681') in 0.014720 seconds
+RemoteAssetCache::AddArtifactToCacheServer - artifactKey='Guid(8a3ce1b40e9875e4bbe75c871c0ba16a) Importer(-1,00000000000000000000000000000000)' Artifact id='73619bca168924d0360a4e9b275e4681' Key (and library path)='Library/Artifacts/dd/dd88f18f47adbcf80ee0ccc1174cb946'
+RemoteAssetCache - Upload - Artifact - success:true, namespace:defaultmetadata, key:dd88f18f47adbcf80ee0ccc1174cb946
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:711f89636cfc4ca1c51fb502e357f754
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:711f89636cfc4ca1c51fb502e357f754
+Start importing Assets/Wwise/API/Runtime/Handwritten/iOS/AkiOSBasePathGetter.cs using Guid(ca7a3b2717a908444b6cff27706087c1) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '655975f76cfc5c7a19c42a9d9c9afe80') in 0.014803 seconds
+RemoteAssetCache::AddArtifactToCacheServer - artifactKey='Guid(ca7a3b2717a908444b6cff27706087c1) Importer(-1,00000000000000000000000000000000)' Artifact id='655975f76cfc5c7a19c42a9d9c9afe80' Key (and library path)='Library/Artifacts/78/785795371eba02bd91a56acf3796a8c4'
+RemoteAssetCache - Upload - Artifact - success:true, namespace:defaultmetadata, key:785795371eba02bd91a56acf3796a8c4
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:d7462ab8a31c6031c7fa1b3191b9e83e
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:d7462ab8a31c6031c7fa1b3191b9e83e
+Start importing Assets/Wwise/API/Runtime/Generated/iOS/AkCommunicationSettings_iOS.cs using Guid(cc36b3f97afde6f4993f19adc48fea1e) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'b23c0d45675fc427146e70c064351958') in 0.014597 seconds
+RemoteAssetCache::AddArtifactToCacheServer - artifactKey='Guid(cc36b3f97afde6f4993f19adc48fea1e) Importer(-1,00000000000000000000000000000000)' Artifact id='b23c0d45675fc427146e70c064351958' Key (and library path)='Library/Artifacts/0b/0bde6fca639c8ad932a1b27cb0587477'
+RemoteAssetCache - Upload - Artifact - success:true, namespace:defaultmetadata, key:0bde6fca639c8ad932a1b27cb0587477
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:087710eb30a7a7bb26969fd2e599dd76
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:087710eb30a7a7bb26969fd2e599dd76
+Start importing Assets/Wwise/API/Runtime/Generated/Android/AkAudioAPI_Android.cs using Guid(3d6a6467149a5a540b6e715eb35bb22f) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '0b7eed2ebea2c01f2085404450e70812') in 0.015972 seconds
+RemoteAssetCache::AddArtifactToCacheServer - artifactKey='Guid(3d6a6467149a5a540b6e715eb35bb22f) Importer(-1,00000000000000000000000000000000)' Artifact id='0b7eed2ebea2c01f2085404450e70812' Key (and library path)='Library/Artifacts/ec/ecbf265133ecd3ddbbc4c8d98c1dde48'
+RemoteAssetCache - Upload - Artifact - success:true, namespace:defaultmetadata, key:ecbf265133ecd3ddbbc4c8d98c1dde48
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:f9a785c31aa6b9932b0792261bfed67b
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:f9a785c31aa6b9932b0792261bfed67b
+Start importing Assets/Wwise/API/Runtime/Generated/iOS/AkUnityPlatformSpecificSettings_iOS.cs using Guid(3d0c406fa9e8a3847890ab6c78a22a1b) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '73f59fea263f148d4ecbadc6b8e5185c') in 0.015241 seconds
+RemoteAssetCache::AddArtifactToCacheServer - artifactKey='Guid(3d0c406fa9e8a3847890ab6c78a22a1b) Importer(-1,00000000000000000000000000000000)' Artifact id='73f59fea263f148d4ecbadc6b8e5185c' Key (and library path)='Library/Artifacts/08/081f756f93259247873cd46c03b736dc'
+RemoteAssetCache - Upload - Artifact - success:true, namespace:defaultmetadata, key:081f756f93259247873cd46c03b736dc
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:a66a99eceff532225ae18307d0b24e0f
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:a66a99eceff532225ae18307d0b24e0f
+Start importing Assets/Wwise/API/Runtime/Generated/iOS/AkAudioSessionMode_iOS.cs using Guid(6dddc27a7ebbb2048ad7ff1bb88c6960) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'b75d8b0f73ac86ca6a991f9ca367bb5e') in 0.015800 seconds
+RemoteAssetCache::AddArtifactToCacheServer - artifactKey='Guid(6dddc27a7ebbb2048ad7ff1bb88c6960) Importer(-1,00000000000000000000000000000000)' Artifact id='b75d8b0f73ac86ca6a991f9ca367bb5e' Key (and library path)='Library/Artifacts/d4/d4f2379cf7f9a2151df7223ee57bb5c4'
+RemoteAssetCache - Upload - Artifact - success:true, namespace:defaultmetadata, key:d4f2379cf7f9a2151df7223ee57bb5c4
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:981f123f84a7c84bfed5afe8a719a654
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:981f123f84a7c84bfed5afe8a719a654
+Start importing Assets/Wwise/API/Runtime/Generated/Android/AkSoundEnginePINVOKE_Android.cs using Guid(9ddd9223353975449923585fbd5b15ca) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '4a5810852f24b33d2e05402ec29b6898') in 0.023550 seconds
+RemoteAssetCache::AddArtifactToCacheServer - artifactKey='Guid(9ddd9223353975449923585fbd5b15ca) Importer(-1,00000000000000000000000000000000)' Artifact id='4a5810852f24b33d2e05402ec29b6898' Key (and library path)='Library/Artifacts/c6/c6d20be77bab3c62830573379f145656'
+RemoteAssetCache - Upload - Artifact - success:true, namespace:defaultmetadata, key:c6d20be77bab3c62830573379f145656
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:f444924a5598cc18ae30688ad17c8616
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:f444924a5598cc18ae30688ad17c8616
+Start importing Assets/Wwise/API/Runtime/Handwritten/iOS/AkSoundEngine.cs using Guid(3e0e5bd6edf9ff74ca4d1b8347de5a2f) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'd6867675ac6b9c2b243539fde409c817') in 0.015491 seconds
+RemoteAssetCache::AddArtifactToCacheServer - artifactKey='Guid(3e0e5bd6edf9ff74ca4d1b8347de5a2f) Importer(-1,00000000000000000000000000000000)' Artifact id='d6867675ac6b9c2b243539fde409c817' Key (and library path)='Library/Artifacts/19/19e09f99d32e3d1a703596fb376a9011'
+RemoteAssetCache - Upload - Artifact - success:true, namespace:defaultmetadata, key:19e09f99d32e3d1a703596fb376a9011
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:4ba58047174c60bbcdf9e594c2fd7bc8
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:4ba58047174c60bbcdf9e594c2fd7bc8
+Start importing Assets/Wwise/API/Runtime/Generated/Android/AkUnityPlatformSpecificSettings_Android.cs using Guid(5e55dc2fdec4c5d4da708dac53e8f22d) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '286f6898116c38cac511bd7e27cea282') in 0.013673 seconds
+RemoteAssetCache::AddArtifactToCacheServer - artifactKey='Guid(5e55dc2fdec4c5d4da708dac53e8f22d) Importer(-1,00000000000000000000000000000000)' Artifact id='286f6898116c38cac511bd7e27cea282' Key (and library path)='Library/Artifacts/25/25bffa2c524eb6b10c26189d94e1c989'
+RemoteAssetCache - Upload - Artifact - success:true, namespace:defaultmetadata, key:25bffa2c524eb6b10c26189d94e1c989
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:81107c6513600b75c19cc6e10426ce87
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:81107c6513600b75c19cc6e10426ce87
+Start importing Assets/Wwise/API/Editor/WwiseMenu/Android/AkWwiseMenu_Android.cs using Guid(9e0088d2450029b45a53b96d86ec47dd) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'f530bd9a32dddfe6d93fbc5416ebc4c5') in 0.013443 seconds
+RemoteAssetCache::AddArtifactToCacheServer - artifactKey='Guid(9e0088d2450029b45a53b96d86ec47dd) Importer(-1,00000000000000000000000000000000)' Artifact id='f530bd9a32dddfe6d93fbc5416ebc4c5' Key (and library path)='Library/Artifacts/00/00b64b3912a7fa55f3d2dd87a51b4eb0'
+RemoteAssetCache - Upload - Artifact - success:true, namespace:defaultmetadata, key:00b64b3912a7fa55f3d2dd87a51b4eb0
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:b5e203a39cb9f1f31b1c3b856a5d64e1
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:b5e203a39cb9f1f31b1c3b856a5d64e1
+Start importing Assets/Wwise/API/Runtime/Generated/iOS/AkAudioSessionSetActiveOptions_iOS.cs using Guid(9e76d3f43a783584da3ee602e59d8b3d) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '965aae21b876ed35d11cd087a9a19f59') in 0.014880 seconds
+RemoteAssetCache::AddArtifactToCacheServer - artifactKey='Guid(9e76d3f43a783584da3ee602e59d8b3d) Importer(-1,00000000000000000000000000000000)' Artifact id='965aae21b876ed35d11cd087a9a19f59' Key (and library path)='Library/Artifacts/f9/f991e5d1c3a73519145a0a16216b3240'
+RemoteAssetCache - Upload - Artifact - success:true, namespace:defaultmetadata, key:f991e5d1c3a73519145a0a16216b3240
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:ea1fda042a68dfce72897cb327124699
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:ea1fda042a68dfce72897cb327124699
+Start importing Assets/Wwise/API/Editor/WwiseMenu/iOS/AkWwiseMenu_iOS.cs using Guid(4fafa9be7e639c547b8906a313225064) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'a0a6948221b28b552dd8d8c4201b41a7') in 0.015063 seconds
+RemoteAssetCache::AddArtifactToCacheServer - artifactKey='Guid(4fafa9be7e639c547b8906a313225064) Importer(-1,00000000000000000000000000000000)' Artifact id='a0a6948221b28b552dd8d8c4201b41a7' Key (and library path)='Library/Artifacts/dc/dcb5ec24ac1afe75b52e40fc9c8e541e'
+RemoteAssetCache - Upload - Artifact - success:true, namespace:defaultmetadata, key:dcb5ec24ac1afe75b52e40fc9c8e541e
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:5a9996dea3033d7afe66912a339f3349
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:5a9996dea3033d7afe66912a339f3349
+Start importing Assets/Wwise/API/Runtime/Generated/Android/AkThreadProperties_Android.cs using Guid(5feaff8214e63d24e93e92690bab477b) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '3485cfe5bcde16b4055702e23d98b093') in 0.016162 seconds
+RemoteAssetCache::AddArtifactToCacheServer - artifactKey='Guid(5feaff8214e63d24e93e92690bab477b) Importer(-1,00000000000000000000000000000000)' Artifact id='3485cfe5bcde16b4055702e23d98b093' Key (and library path)='Library/Artifacts/7b/7b3353bf54a8ca810ac13d86074d8214'
+RemoteAssetCache - Upload - Artifact - success:true, namespace:defaultmetadata, key:7b3353bf54a8ca810ac13d86074d8214
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:1128c67f10d85ddc40a12189859c1f60
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:1128c67f10d85ddc40a12189859c1f60
+Registering precompiled user dll's ...
+Registered in 0.020766 seconds.
+- Starting script compilation
+- Starting compile Library/ScriptAssemblies/AK.Wwise.Unity.API.dll
+Deleting stamp file at Library/ScriptAssemblies/BuiltinAssemblies.stamp
+- Finished compile Library/ScriptAssemblies/AK.Wwise.Unity.API.dll in 2.444125 seconds
+- Starting compile Library/ScriptAssemblies/AK.Wwise.Unity.API.WwiseTypes.dll
+- Finished compile Library/ScriptAssemblies/AK.Wwise.Unity.API.WwiseTypes.dll in 0.466726 seconds
+- Starting compile Library/ScriptAssemblies/Ak.Wwise.Api.WAAPI.dll
+- Starting compile Library/ScriptAssemblies/AK.Wwise.Unity.Timeline.dll
+- Starting compile Library/ScriptAssemblies/AK.Wwise.Unity.MonoBehaviour.dll
+- Finished compile Library/ScriptAssemblies/AK.Wwise.Unity.Timeline.dll in 0.670326 seconds
+- Finished compile Library/ScriptAssemblies/Ak.Wwise.Api.WAAPI.dll in 0.750046 seconds
+- Finished compile Library/ScriptAssemblies/AK.Wwise.Unity.MonoBehaviour.dll in 0.76035 seconds
+- Starting compile Library/ScriptAssemblies/AK.Wwise.Unity.API.Editor.dll
+- Finished compile Library/ScriptAssemblies/AK.Wwise.Unity.API.Editor.dll in 0.744894 seconds
+- Starting compile Library/ScriptAssemblies/AK.Wwise.Unity.MonoBehaviour.Editor.dll
+- Starting compile Library/ScriptAssemblies/AK.Wwise.Unity.Timeline.Editor.dll
+- Finished compile Library/ScriptAssemblies/AK.Wwise.Unity.Timeline.Editor.dll in 0.683842 seconds
+- Finished compile Library/ScriptAssemblies/AK.Wwise.Unity.MonoBehaviour.Editor.dll in 0.765269 seconds
+- Starting compile Library/ScriptAssemblies/Assembly-CSharp.dll
+- Finished compile Library/ScriptAssemblies/Assembly-CSharp.dll in 0.591638 seconds
+- Finished script compilation in 5.928673 seconds
+AssetDatabase: script compilation time: 6.224017s
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 3.24 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+WwiseUnity: Plugins successfully activated for Profile in Editor.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+AkPluginActivator:ActivatePluginsForEditor () (at Assets/Wwise/API/Editor/AkPluginActivator.cs:577)
+AkPluginActivator:.cctor () (at Assets/Wwise/API/Editor/AkPluginActivator.cs:126)
+AkAndroidPluginActivator:.cctor () (at Assets/Wwise/MonoBehaviour/Editor/EditorPlatformHelpers/Android/AkAndroidPluginActivator.cs:7)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/Wwise/API/Editor/AkPluginActivator.cs Line: 577)
+
+Refreshing native plugins compatible for Editor in 1.65 ms, found 1 plugins.
+Querying for cacheable assets in Cache Server:
+	7f1952140d6baa94980de7be72f4c1cc:Assets/Wwise/Editor/ProjectData/AkWwiseProjectData.asset
+RemoteAssetCache - Download - Metadata - success:true, namespace:defaultmetadata, key:014abc1136fbf741e7e176804c5ea2ce
+Start importing Assets/Wwise/Editor/ProjectData/AkWwiseProjectData.asset using Guid(7f1952140d6baa94980de7be72f4c1cc) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '337afcab6782e4dbee5eb291bc71a82f') in 0.027848 seconds
+RemoteAssetCache::AddArtifactToCacheServer - artifactKey='Guid(7f1952140d6baa94980de7be72f4c1cc) Importer(-1,00000000000000000000000000000000)' Artifact id='337afcab6782e4dbee5eb291bc71a82f' Key (and library path)='Library/Artifacts/20/2025297025472bc430e2ff167b5567c0'
+RemoteAssetCache - Upload - Artifact - success:true, namespace:defaultmetadata, key:2025297025472bc430e2ff167b5567c0
+RemoteAssetCache - Download - Metadata - success:true, namespace:defaultmetadata, key:014abc1136fbf741e7e176804c5ea2ce
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:014abc1136fbf741e7e176804c5ea2ce
+DisplayProgressbar: Populating Wwise Picker
+Mono: successfully reloaded assembly
+- Completed reload, in  2.790 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.76 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: InitialScriptRefreshV2(NoUpdateAssetOptions) scanfilter:  ... 1 filters
+RefreshProfiler: Total: 103295.813ms
+	InvokeBeforeRefreshCallbacks: 0.495ms
+	ApplyChangesToAssetFolders: 0.087ms
+	Scan: 76041.580ms
+	OnSourceAssetsModified: 3.066ms
+	UnregisterDeletedAssets: 0.000ms
+	InitializeImportedAssetsSnapshot: 0.538ms
+	GetAllGuidsForCategorization: 0.231ms
+	CategorizeAssets: 34.970ms
+	ImportAndPostprocessOutOfDateAssets: 27208.783ms (17724.643ms without children)
+		ImportManagerImport: 3152.296ms (852.304ms without children)
+			ImportInProcess: 2298.734ms
+			UpdateCategorizedAssets: 1.258ms
+ (-0.133ms without children)
+				RemoteAssetCacheMatchMetadataResults: 0.133ms
+		CompileScripts: 6224.690ms
+		PostProcessAllAssets: 101.332ms
+		ReloadImportedAssets: 0.105ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.243ms
+		InitializingProgressBar: 0.003ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.236ms
+		RestoreLoadedAssetsState: 0.155ms
+	UpdateImportedAssetsSnapshot: 5.081ms
+	ReloadSourceAssets: 0.375ms
+	UnloadImportedAssets: 0.006ms
+	Hotreload: 2.835ms
+	FixTempGuids: 0.003ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.000ms
+	UnloadStreamsBegin: 1.036ms
+	LoadedImportedAssetsSnapshotReleaseGCHandles: 0.271ms
+	GetLoadedSourceAssetsSnapshot: 0.825ms
+	PersistCurrentRevisions: 1.073ms
+	UnloadStreamsEnd: 0.843ms
+	GenerateScriptTypeHashes: 0.235ms
+	Untracked: -1.203ms
+Application.AssetDatabase Initial Script Refresh End
+Application.AssetDatabase.Refresh Start
+Querying for cacheable assets in Cache Server:
+	193cf19f456baf74790d0c62aa17d2b3:Assets/Wwise/Documentation/Android/zh/WwiseUnityIntegrationHelp_Android_zh.chm
+	6c605804ff0ec1b4c8b73413897af5d1:Assets/Wwise/Documentation/Android/ja/WwiseUnityIntegrationHelp_Android_ja.chm
+	0e05dd67b1b38094d9a97dd8be6a4476:Assets/Wwise/Documentation/Android/ko/WwiseUnityIntegrationHelp_Android_ko.chm
+	bfac9f0642a58f24ab30509edf7c2687:Assets/Wwise/Documentation/Android/en/WwiseUnityIntegrationHelp_Android_en.chm
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:ec09f1a65d18cc8ac224844c9f359c33
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:21d3ea5740b8d9d4804d5878dc248ac6
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:b44fd099915576de55ececc0ae921832
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:924467aa81f72a47076ed1ac36ed4f70
+Start importing Assets/Wwise/Documentation/Android/zh/WwiseUnityIntegrationHelp_Android_zh.chm using Guid(193cf19f456baf74790d0c62aa17d2b3) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'd5195415f8f34d76028c2020b01ee191') in 0.049315 seconds
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:0ac76116770b6d2b0c7acf325c08aaa5
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:0ac76116770b6d2b0c7acf325c08aaa5
+Start importing Assets/Wwise/Documentation/Android/ja/WwiseUnityIntegrationHelp_Android_ja.chm using Guid(6c605804ff0ec1b4c8b73413897af5d1) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '40c860823d17d7b5c1d403b4ecef5689') in 0.007536 seconds
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:c5c8640060e96540b55820c5521dbb22
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:c5c8640060e96540b55820c5521dbb22
+Start importing Assets/Wwise/Documentation/Android/ko/WwiseUnityIntegrationHelp_Android_ko.chm using Guid(0e05dd67b1b38094d9a97dd8be6a4476) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'be465b8007891b9e38559dc74f298ed2') in 0.008809 seconds
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:58d715605eccfefd11b8e3b6befd9ff4
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:58d715605eccfefd11b8e3b6befd9ff4
+Start importing Assets/Wwise/Documentation/Android/en/WwiseUnityIntegrationHelp_Android_en.chm using Guid(bfac9f0642a58f24ab30509edf7c2687) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'ab1b1538d713def1b16158db1f72ef17') in 0.010497 seconds
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:af96bddbc7f15ac4bb3b25bdc9b551d6
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:af96bddbc7f15ac4bb3b25bdc9b551d6
+Querying for cacheable assets in Cache Server:
+	e4588cf95288d9b42b08f404ef418299:Assets/WwiseSettings.xml
+	3c343122b5ce98046a0a3f07cbc6ca69:Assets/Wwise/NewVersion.txt
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:c78ecc52068863160453d2051f070d57
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:1c47e8e9203d9f1dee24fb641ccf74ff
+Start importing Assets/WwiseSettings.xml using Guid(e4588cf95288d9b42b08f404ef418299) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '085b65d136a31fd81123189ca5901c7a') in 0.005918 seconds
+RemoteAssetCache::AddArtifactToCacheServer - artifactKey='Guid(e4588cf95288d9b42b08f404ef418299) Importer(-1,00000000000000000000000000000000)' Artifact id='085b65d136a31fd81123189ca5901c7a' Key (and library path)='Library/Artifacts/04/041c17ec081608f5dc18732f2dc61d29'
+RemoteAssetCache - Upload - Artifact - success:true, namespace:defaultmetadata, key:041c17ec081608f5dc18732f2dc61d29
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:1c47e8e9203d9f1dee24fb641ccf74ff
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:1c47e8e9203d9f1dee24fb641ccf74ff
+Start importing Assets/Wwise/NewVersion.txt using Guid(3c343122b5ce98046a0a3f07cbc6ca69) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '44a9233167e1b54c855100862d689b17') in 0.013216 seconds
+RemoteAssetCache::AddArtifactToCacheServer - artifactKey='Guid(3c343122b5ce98046a0a3f07cbc6ca69) Importer(-1,00000000000000000000000000000000)' Artifact id='44a9233167e1b54c855100862d689b17' Key (and library path)='Library/Artifacts/f3/f3031eaa7fb2bc927b614167a03a07b9'
+RemoteAssetCache - Upload - Artifact - success:true, namespace:defaultmetadata, key:f3031eaa7fb2bc927b614167a03a07b9
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:72e69138012cc2f735b7456bd662b713
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:72e69138012cc2f735b7456bd662b713
+Refreshing native plugins compatible for Editor in 1.97 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Refresh completed in 0.393293 seconds.
+RefreshInfo: RefreshV2(ForceSynchronousImport) scanfilter: 
+RefreshProfiler: Total: 393.241ms
+	InvokeBeforeRefreshCallbacks: 0.398ms
+	ApplyChangesToAssetFolders: 0.069ms
+	Scan: 58.873ms
+	OnSourceAssetsModified: 1.114ms
+	InitializeImportedAssetsSnapshot: 3.932ms
+	GetAllGuidsForCategorization: 0.333ms
+	CategorizeAssets: 41.488ms
+	ImportAndPostprocessOutOfDateAssets: 270.365ms (11.510ms without children)
+		ImportManagerImport: 245.352ms (145.996ms without children)
+			ImportInProcess: 99.274ms
+			UpdateCategorizedAssets: 0.082ms
+ (-0.021ms without children)
+				RemoteAssetCacheMatchMetadataResults: 0.021ms
+		PostProcessAllAssets: 8.713ms
+		ReloadImportedAssets: 0.006ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.256ms
+		InitializingProgressBar: 0.002ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.210ms
+		OnDemandSchedulerStart: 0.541ms
+		RestoreLoadedAssetsState: 1.077ms
+	UpdateImportedAssetsSnapshot: 2.698ms
+	ReloadSourceAssets: 0.218ms
+	UnloadImportedAssets: 0.118ms
+	Hotreload: 2.153ms
+	FixTempGuids: 0.005ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.073ms
+	UnloadStreamsBegin: 0.010ms
+	LoadedImportedAssetsSnapshotReleaseGCHandles: 0.763ms
+	GetLoadedSourceAssetsSnapshot: 2.345ms
+	PersistCurrentRevisions: 0.280ms
+	UnloadStreamsEnd: 0.166ms
+	GenerateScriptTypeHashes: 0.707ms
+	Untracked: 10.538ms
+ (Total: 0.002 MB)
+Files imported locally: 0
+Files uploaded to cache server: 0
+Application.AssetDatabase.Refresh End
+RefreshInfo: StopAssetImportingV2(ForceSynchronousImport) scanfilter: 
+RefreshProfiler: Total: 11.786ms
+Refresh completed in 0.056407 seconds.
+RefreshInfo: RefreshV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 56.381ms
+Initializing Unity extensions:
+Unloading 84 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.7 MB.
+System memory in use after: 70.7 MB.
+
+Unloading 296 unused Assets to reduce memory usage. Loaded Objects now: 1889.
+Total: 5.787200 ms (FindLiveObjects: 0.172300 ms CreateObjectMapping: 0.060300 ms MarkObjects: 4.366800 ms  DeleteObjects: 1.186300 ms)
+
+ProgressiveSceneManager::Cancel()
+WwiseUnity: Running modify setup...
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WwiseSetupWizard:RunModify () (at Assets/Wwise/MonoBehaviour/Editor/WwiseSetupWizard/AkWwiseSetupWizard.cs:8)
+
+(Filename: Assets/Wwise/MonoBehaviour/Editor/WwiseSetupWizard/AkWwiseSetupWizard.cs Line: 8)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 69.6 MB.
+System memory in use after: 69.5 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1895.
+Total: 8.477700 ms (FindLiveObjects: 0.170500 ms CreateObjectMapping: 0.075000 ms MarkObjects: 8.195900 ms  DeleteObjects: 0.034300 ms)
+
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/arm64-v8a/Release/libAkSoundEngine.so using Guid(4250289edb20bbc4e88a53b6e99cf19e) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '5b37c9b8ab66d7209d1c9728833bb596') in 0.010458 seconds
+Refreshing native plugins compatible for Editor in 2.95 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 93.659ms
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/libiZTrashMultibandDistortionFX.a using Guid(2ccea7271e9bf5f4c9fc551a6c40e1cd) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'cb684f339a9ab0874379a3003f3a1572') in 0.013104 seconds
+Refreshing native plugins compatible for Editor in 1.64 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 67.781ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/x86/DSP/libAkSoundSeedImpact.so using Guid(946bd138fae2df4429adbd4eb8bbb170) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'a8d06c76dd1e3a8427f20b94d80c86ab') in 0.009263 seconds
+Refreshing native plugins compatible for Editor in 1.25 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 53.456ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/x86/Release/libAkSoundEngine.so using Guid(1b69beda08a89ba48aa2bf32e71fcae7) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '126975fd7cef04e1aa04617dbcff04e8') in 0.008132 seconds
+Refreshing native plugins compatible for Editor in 1.22 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 57.653ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/arm64-v8a/DSP/libMcDSP.so using Guid(843974055f8915d4688cfeb1f137e334) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '8562c1d6d2ea6d76c330e812e90d7fbc') in 0.008961 seconds
+Refreshing native plugins compatible for Editor in 1.92 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 53.551ms
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/AkSoundSeedWindSourceFactory.h using Guid(dee27e0b88656a14f8c7567ec5ab359c) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '177f098e5c9b9acc722460aa018142be') in 0.011000 seconds
+Refreshing native plugins compatible for Editor in 2.25 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 64.195ms
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/libMcDSPFutzBoxFX.a using Guid(1f3831f5b8fbce243abd523eab5726d7) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '747d8a7b928f11a110527a54046de8a5') in 0.009981 seconds
+Refreshing native plugins compatible for Editor in 1.25 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 53.566ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Windows/x86/DSP/McDSP.dll using Guid(76e2f668b1e42ce41b1d91283f5fe34f) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'c6e91977cb83d3963ef765e36068e65c') in 0.008839 seconds
+Refreshing native plugins compatible for Editor in 1.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 45.570ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Windows/x86/DSP/AkSoundSeedImpact.dll using Guid(fa7842bba6e2a2742ae187f67bec6406) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '742a8a51537baaad10181232cde88c61') in 0.009326 seconds
+Refreshing native plugins compatible for Editor in 2.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 46.944ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Mac/DSP/libMcDSP.bundle using Guid(4abf3028db36b7a428df67dedc2b6601) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '6b80a325b51b4e4dd467f30460a681f2') in 0.008850 seconds
+Refreshing native plugins compatible for Editor in 1.24 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 41.182ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Windows/x86/Release/AkSoundEngine.dll using Guid(c815adf9b5374c74b97a0861075e27de) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '7f5d46cc0204c236c1fa12a82dafcaca') in 0.008690 seconds
+Refreshing native plugins compatible for Editor in 1.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 37.660ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/x86/DSP/libAkSoundSeedGrain.so using Guid(3e99355411936894d94a7445fa27b026) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '73da72bdd81b112d8590b0326162df2f') in 0.009181 seconds
+Refreshing native plugins compatible for Editor in 2.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 60.038ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/arm64-v8a/DSP/libAkMotion.so using Guid(ea30fb63ec3a54c4a8f32156163fe238) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'e4f7907319c05e19257d3b15a19bd1e9') in 0.009808 seconds
+Refreshing native plugins compatible for Editor in 1.23 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 54.322ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Mac/DSP/libAkSoundSeedAir.bundle using Guid(6a7998511b9e5364981de2cfb89e7f0b) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'fc3345e641d73a45aa3b7979e12a050b') in 0.010561 seconds
+Refreshing native plugins compatible for Editor in 2.09 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 45.216ms
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/libiZTrashFiltersFX.a using Guid(f0c5f969f02ce884a821bd87bad9bc74) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '799a7dc00170542115cc1b6a68a884c6') in 0.011354 seconds
+Refreshing native plugins compatible for Editor in 1.96 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 56.141ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Windows/x86/DSP/AkConvolutionReverb.dll using Guid(2bb45625159af9146b067147753bf835) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '6139a97562f2729259d92647ea1fc28a') in 0.009769 seconds
+Refreshing native plugins compatible for Editor in 1.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 42.859ms
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/iZTrashDynamicsFXFactory.h using Guid(5325b6cce66d186478eab75c3d4846c5) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '67186ea1e3fa50c87b5d8b250c8d2df9') in 0.009297 seconds
+Refreshing native plugins compatible for Editor in 1.23 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 53.532ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Mac/DSP/libAkStereoDelay.bundle using Guid(c5f7229d80298f542ab04cad898534c5) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '9a2a26f7b61260d93e9a8732cbf921bb') in 0.010155 seconds
+Refreshing native plugins compatible for Editor in 2.12 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 41.127ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Windows/x86_64/DSP/Auro.dll using Guid(a8435837070e6ae4292029da2ea9eecb) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '956b93cd2b193acbd1c57f04a6b44714') in 0.009843 seconds
+Refreshing native plugins compatible for Editor in 2.14 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 46.692ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/armeabi-v7a/DSP/libiZotope.so using Guid(fed280c09b40b2148a7db7b2e7fe60fa) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '4f9d9e81c8f077ec2bed8201d93ea30c') in 0.009839 seconds
+Refreshing native plugins compatible for Editor in 1.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 59.126ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Mac/DSP/libAkTimeStretch.bundle using Guid(18b5dd3a8a7f83142961fdd73c73e037) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'bbc42b6f56818768cb5af9b86adc3f89') in 0.008004 seconds
+Refreshing native plugins compatible for Editor in 2.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 57.196ms
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/iZTrashMultibandDistortionFXFactory.h using Guid(3d9fd25075e5b5e419801402e1c6f7d3) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'c7fbd170e11f2becb97869858b624796') in 0.009957 seconds
+Refreshing native plugins compatible for Editor in 1.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 58.421ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/armeabi-v7a/DSP/libAuro.so using Guid(df9401df2ec17d541a741eacc2db88da) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '2b07c23e52fa629a68892c324559d4fb') in 0.010561 seconds
+Refreshing native plugins compatible for Editor in 1.83 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 56.908ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Mac/DSP/libAkConvolutionReverb.bundle using Guid(8d590516c65a6614292827c361373ae1) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '67a016c0684a479d9c865eab8dddcc55') in 0.009244 seconds
+Refreshing native plugins compatible for Editor in 1.16 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 41.756ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/armeabi-v7a/DSP/libAkSoundSeedAir.so using Guid(bc4e441c9eda2f54bbcfd60975e6ee89) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '823b1a5f53de2230aaad3d73411f6418') in 0.008895 seconds
+Refreshing native plugins compatible for Editor in 1.93 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 49.799ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Mac/DSP/libAkReflect.bundle using Guid(c4ea81cc0da744f4f8bceb640e1ad040) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '5ce62f3d9d7cc23b0541572f6dfcc5a7') in 0.008696 seconds
+Refreshing native plugins compatible for Editor in 1.22 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 38.414ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Windows/x86/DSP/AkSynthOne.dll using Guid(acd59e1ac34524347ba1741b83f6e8d4) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '165000c06d84c9a48864343ad630c3ce') in 0.010255 seconds
+Refreshing native plugins compatible for Editor in 1.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 44.628ms
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/AkSoundSeedGrainSourceFactory.h using Guid(d2d8e1f70ca1a314bb5ed7de41d73392) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'bfd7c83458e9978ccd085cb2199291df') in 0.010346 seconds
+Refreshing native plugins compatible for Editor in 2.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 58.632ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Windows/x86/DSP/AkSoundSeedAir.dll using Guid(bd0fc021e34288c4bab7a9b3289a1546) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'a9d1d37c86d1e4b71b9d272a625befcb') in 0.009320 seconds
+Refreshing native plugins compatible for Editor in 1.17 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 45.912ms
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/libAkSynthOneSource.a using Guid(261f400bfb61d024dad47bea1db304de) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '7444fc010b14f9156e25d6479d034831') in 0.010215 seconds
+Refreshing native plugins compatible for Editor in 2.21 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 53.447ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Mac/DSP/libAkSoundSeedImpact.bundle using Guid(21943ecf36d92ac4b9a67680fc9ad894) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'ceda25c983eb4b0e17691686cd07f3f2') in 0.009226 seconds
+Refreshing native plugins compatible for Editor in 2.01 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 42.262ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Mac/DSP/libAkFlanger.bundle using Guid(a350193f4fed4fe4493c3c9f2eb220f5) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '02d3898ac4fe42534aa0ad4cc698c4d8') in 0.008303 seconds
+Refreshing native plugins compatible for Editor in 1.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 41.327ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Windows/x86_64/Profile/AkSoundEngine.dll using Guid(856446f2ccbccb24d8c9fd707cebd46f) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '9649b736b282081fba88d5794759ced8') in 0.008133 seconds
+Refreshing native plugins compatible for Editor in 1.17 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 39.933ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/arm64-v8a/DSP/libiZotope.so using Guid(36e7dede363d0e54c8bad19ced7b36b2) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'f5ee484db3c94051ce0cc96b471b5336') in 0.009462 seconds
+Refreshing native plugins compatible for Editor in 2.28 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 58.316ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Windows/x86_64/DSP/AkSynthOne.dll using Guid(e0fd9319155cbc648ba783de8e344f83) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '4a0116044db50d62a61bd1792226086b') in 0.011472 seconds
+Refreshing native plugins compatible for Editor in 1.25 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 42.873ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Mac/DSP/libAkImpacter.bundle using Guid(4a64aef65ede5714a8446f184f7c902d) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'ab4a7d8c1ea2a6de7e10f3cf18ac421b') in 0.008140 seconds
+Refreshing native plugins compatible for Editor in 1.75 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 36.127ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Windows/x86_64/Release/AkSoundEngine.dll using Guid(3bbc431bc9e862c40880a3ac87b8709b) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '712500c522efc598a35c706bbbcb9c48') in 0.008613 seconds
+Refreshing native plugins compatible for Editor in 1.20 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 43.157ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Windows/x86_64/DSP/MasteringSuite.dll using Guid(1f16f1745641bf34ba16654eb61df4a8) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'ffe1ca68d285cbfe4a645a8c9b278ae3') in 0.008367 seconds
+Refreshing native plugins compatible for Editor in 1.24 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 39.744ms
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/libAkSoundSeedGrainSource.a using Guid(03c5a4757048c9e43939608aecf1b527) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '0b3abc76346a99c14e2102cbabe79e3a') in 0.009801 seconds
+Refreshing native plugins compatible for Editor in 1.16 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 55.111ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/arm64-v8a/DSP/libAkSoundSeedImpact.so using Guid(d8e76652d84ce2140b604494cff826f1) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '90bd6a9c33858876958f14616d47d3bd') in 0.009554 seconds
+Refreshing native plugins compatible for Editor in 2.01 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 48.864ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/x86/DSP/libAkSoundSeedAir.so using Guid(f2e8f14b1d100de44a583daa51e548ed) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'e53cd2c7b4555c6066f15c3d6d5ef76d') in 0.009095 seconds
+Refreshing native plugins compatible for Editor in 2.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 49.853ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/arm64-v8a/DSP/libAkSoundSeedGrain.so using Guid(c712d2254e69e7942a1ad774e01dca5d) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '5e92789985487cf32b7ff48de4955c88') in 0.008841 seconds
+Refreshing native plugins compatible for Editor in 2.04 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 51.911ms
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/McDSPFutzBoxFXFactory.h using Guid(9c0b724448bce6742989f617c8195151) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '266400dc48c51f510051df94db1b0a11') in 0.009524 seconds
+Refreshing native plugins compatible for Editor in 1.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 54.616ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Mac/DSP/libAuro.bundle using Guid(87c13ba30aac98c4c91f32eaf0884262) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '62fc5752d7d765c44240998b10a16dfa') in 0.007166 seconds
+Refreshing native plugins compatible for Editor in 1.10 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 35.148ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Windows/x86_64/DSP/AkSoundSeedImpact.dll using Guid(59ae7dd0e1a470142a8e0228c95b2dcb) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '165835285232083b5c49e581a42cb29f') in 0.008803 seconds
+Refreshing native plugins compatible for Editor in 1.98 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 45.006ms
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/libAuroHeadphoneFX.a using Guid(74559dd5a3909da4797a737fe3731b4c) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '31defe3c8aaef41ae80953a0d985802b') in 0.009682 seconds
+Refreshing native plugins compatible for Editor in 1.13 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 53.390ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/armeabi-v7a/DSP/libAkSoundSeedGrain.so using Guid(08f94b1f2f040e647a091ed8e93fbabd) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '7fa38cc42f32d099e601dcb841744e44') in 0.008623 seconds
+Refreshing native plugins compatible for Editor in 1.13 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 54.992ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Mac/DSP/libAkSynthOne.bundle using Guid(7cebbc57f8baf5e43b5ff1b8ac2bcf12) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '5c80038cef79f98a19e4e48848eff643') in 0.019712 seconds
+Refreshing native plugins compatible for Editor in 1.83 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 53.446ms
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/iZTrashDelayFXFactory.h using Guid(7199ebfc8a09139478cbafd8a7a1aaf9) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '378359472ae0919b34dcb1946aee02e2') in 0.010679 seconds
+Refreshing native plugins compatible for Editor in 1.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 53.721ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/x86/DSP/libiZotope.so using Guid(dd16b55d41ea74847a43bfc9d5d3244d) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '7d61ea5a5409a0898c87084435dca6cf') in 0.008995 seconds
+Refreshing native plugins compatible for Editor in 2.01 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 54.797ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/x86/DSP/libAkConvolutionReverb.so using Guid(73271db9c0683b44da1c0ca8e80463b0) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'ec69323cae877b405942dce04c50167e') in 0.008632 seconds
+Refreshing native plugins compatible for Editor in 1.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 60.360ms
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/libiZTrashDynamicsFX.a using Guid(cfcb9e11762bb164c9a3bee2234e2330) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '6a2a644c23e3a61301f856413b3eccb2') in 0.011321 seconds
+Refreshing native plugins compatible for Editor in 1.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 52.068ms
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/iZTrashDistortionFXFactory.h using Guid(1bba5f7ce62131f4688bd355c30ed841) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '0d578688ed211a167d78a1629cfda081') in 0.011043 seconds
+Refreshing native plugins compatible for Editor in 1.10 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 53.853ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Mac/DSP/libAkRecorder.bundle using Guid(9c0c3749fd41397409ea4695defc52a9) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'e3482c77a89c9b5b35fd8d8d3b97f02b') in 0.007909 seconds
+Refreshing native plugins compatible for Editor in 1.65 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 37.901ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Windows/x86_64/DSP/MSSpatial.dll using Guid(35f83e4f8d5587843a28c3ed7572aeda) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '90d86869dc956bc8d8991d6f1e549c2c') in 0.009576 seconds
+Refreshing native plugins compatible for Editor in 1.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 37.861ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/arm64-v8a/Profile/libAkSoundEngine.so using Guid(7b8a4983aae6560449f27402a2122d90) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '3b7609a02e749568841b657eff9b38fa') in 0.008247 seconds
+Refreshing native plugins compatible for Editor in 1.15 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 54.370ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/armeabi-v7a/DSP/libAkConvolutionReverb.so using Guid(c969800d99c98034faf90b00f0cc844a) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'bb26233919045808d01f4f0ab4b9d13b') in 0.009696 seconds
+Refreshing native plugins compatible for Editor in 2.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 59.818ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/armeabi-v7a/DSP/libAkSoundSeedImpact.so using Guid(2ead483c93b00b047b17979465720726) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '2490bf63355eb78f952cfe2a246bd623') in 0.009824 seconds
+Refreshing native plugins compatible for Editor in 2.12 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 65.246ms
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/libiZTrashDistortionFX.a using Guid(1d0df8480ce63b24fb741cef0f89b64c) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '5c6a09f6d85fa352e54ffe190539c37f') in 0.010549 seconds
+Refreshing native plugins compatible for Editor in 1.96 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 72.716ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Windows/x86/Debug/AkSoundEngine.dll using Guid(e4135b7a4ce8a3147879a235a06c226d) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '1d313835ba3b409b18dab6310f9e37eb') in 0.013285 seconds
+Refreshing native plugins compatible for Editor in 1.24 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 52.594ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/armeabi-v7a/Profile/libAkSoundEngine.so using Guid(f6f5821098b88704a94818e2c924a1ea) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'efa04219f57cbff373bb03f31ae7494c') in 0.009462 seconds
+Refreshing native plugins compatible for Editor in 1.17 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 54.336ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/x86/DSP/libMcDSP.so using Guid(0a597d6ea19b27543bc508d374a48d7e) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'a15ed1ddc7155edd2e3fac2e41d2a095') in 0.009931 seconds
+Refreshing native plugins compatible for Editor in 1.98 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 61.031ms
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/AuroHeadphoneFXFactory.h using Guid(d65953ee81d21f94da3b4200a60404f5) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '7700bfed3634acabab6946b62c3aaf59') in 0.010659 seconds
+Refreshing native plugins compatible for Editor in 1.96 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 59.894ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Windows/x86/DSP/iZotope.dll using Guid(137982c666a7de34abcd7339ba4df29a) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'cd358bae6e497573e36c7e5d329d6aab') in 0.009680 seconds
+Refreshing native plugins compatible for Editor in 1.21 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 43.138ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Windows/x86/Profile/AkSoundEngine.dll using Guid(8c78a4dcfa5db94489bf6f01719edb3f) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '33aac6fa8d185e494c15086fc62a3e9e') in 0.009899 seconds
+Refreshing native plugins compatible for Editor in 2.07 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 42.223ms
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/Release/libAkSoundEngine.a using Guid(60549a96af68aa940ae91d0b6866bf21) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '7e3ecf3edcfbe81c97fd8011e9087906') in 0.008526 seconds
+Refreshing native plugins compatible for Editor in 1.28 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 53.712ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Mac/DSP/libAkPitchShifter.bundle using Guid(35cc03fef90ac8f4c9589b2a3a406d5f) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '153474b92c9e751ca2f87055a039b09a') in 0.008646 seconds
+Refreshing native plugins compatible for Editor in 1.28 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 42.165ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Windows/x86_64/DSP/AkSoundSeedGrain.dll using Guid(77c87bdac06740e4b9fdc9f972fe94b9) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '9116a8489fd2c94354757cb8ec2968f1') in 0.008551 seconds
+Refreshing native plugins compatible for Editor in 1.94 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 39.613ms
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/Debug/libAkSoundEngine.a using Guid(f842d1e734037f2459f253bab07914f9) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '86bc90eb8f92eebe8f07b82fb7824075') in 0.008664 seconds
+Refreshing native plugins compatible for Editor in 1.13 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 50.697ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Mac/DSP/libiZotope.bundle using Guid(a092add4599cac945ac4b3282455c460) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '066e2a05a17d240d0790a3de3783a518') in 0.009757 seconds
+Refreshing native plugins compatible for Editor in 1.06 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 65.911ms
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/AkConvolutionReverbFXFactory.h using Guid(87a399e121176c044b16b2ebeb82918d) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '79c1ec073f0703ea7ea4e0ed2326a6be') in 0.010050 seconds
+Refreshing native plugins compatible for Editor in 2.04 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 57.150ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Mac/DSP/libAkSoundSeedGrain.bundle using Guid(d827f1702c179364990ce7c5769edcc3) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'c14761b838202a7df0c1a2cac845349c') in 0.008875 seconds
+Refreshing native plugins compatible for Editor in 1.27 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 35.974ms
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/Profile/libAkSoundEngine.a using Guid(03ce48843f1c011479d09ea6a84ac630) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '19eb3cddecf74d455e2239b96d56bb95') in 0.009649 seconds
+Refreshing native plugins compatible for Editor in 2.06 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 53.879ms
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/iZTrashFiltersFXFactory.h using Guid(468d288216ca78942936107407d05941) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'c9f91502c08bbe27520039e03ed0657c') in 0.010598 seconds
+Refreshing native plugins compatible for Editor in 1.07 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 51.067ms
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/libiZTrashDelayFX.a using Guid(87f06d05fd5ace94db07c5373836a2bc) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '9e4461d090eb2944c55f291516a8eb11') in 0.011479 seconds
+Refreshing native plugins compatible for Editor in 1.05 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 54.112ms
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/libAkSoundSeedImpactFX.a using Guid(993cd0a28afd4d1489d9fbffa71a3d15) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '2beae223e942fa0e745d836014b40f1c') in 0.008135 seconds
+Refreshing native plugins compatible for Editor in 2.00 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 48.780ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/armeabi-v7a/Debug/libAkSoundEngine.so using Guid(7d27ba9881899b3409a6cb1dbc965493) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '71bef88e90dce188e260fe1c18d2e0a6') in 0.009353 seconds
+Refreshing native plugins compatible for Editor in 2.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 55.926ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/arm64-v8a/DSP/libAuro.so using Guid(4ea158cbc4fb72c45bce229108e05f27) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '68a8d10024f7e084e7d0688f77492144') in 0.010785 seconds
+Refreshing native plugins compatible for Editor in 2.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 72.399ms
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/libAkSoundSeedWooshSource.a using Guid(e6080eaaef2637944ae8034f0f947723) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '71dbeebc38484de8682eeb4b8821685c') in 0.010822 seconds
+Refreshing native plugins compatible for Editor in 3.00 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 73.374ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Windows/x86/DSP/MSSpatial.dll using Guid(61cd2cc6e5578044bbd64540a789f3a5) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'f1f15a34cce761be4389e37b5aabe87f') in 0.009886 seconds
+Refreshing native plugins compatible for Editor in 1.08 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 48.640ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/arm64-v8a/Debug/libAkSoundEngine.so using Guid(822ca5116c1fc4544bb71bd48f05312c) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '000b5ed8dc6c7acb3454fbf0f174690f') in 0.009471 seconds
+Refreshing native plugins compatible for Editor in 1.75 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 52.025ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/armeabi-v7a/Release/libAkSoundEngine.so using Guid(993376c305f7b274f8637d796d485e44) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'c43c86dc2607f1be0ebf9c23a97b6681') in 0.009380 seconds
+Refreshing native plugins compatible for Editor in 1.24 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 70.232ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Mac/DSP/libAkRoomVerb.bundle using Guid(655aca90228121a478fd21a9a661ccde) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '0ad9bdfa41dceb771a1cbc38c77c8c3c') in 0.009134 seconds
+Refreshing native plugins compatible for Editor in 1.07 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 39.982ms
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/libMcDSPLimiterFX.a using Guid(17b08027a2820af4abd0ef970dfd2128) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '753fb7f21413b0199057b64ab64feb94') in 0.010270 seconds
+Refreshing native plugins compatible for Editor in 1.63 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 58.962ms
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/McDSPLimiterFXFactory.h using Guid(576c5146aa1f6cb4b83da94a865ea14f) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'f8e8319404c5d29f41ae91d1b1bb0232') in 0.010977 seconds
+Refreshing native plugins compatible for Editor in 1.11 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 54.405ms
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/libAkConvolutionReverbFX.a using Guid(4db4c91944af8064d88f078004a8ace4) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '218521208b817ebfeb24ba980da0f654') in 0.009616 seconds
+Refreshing native plugins compatible for Editor in 1.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 55.494ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/x86/DSP/libAuro.so using Guid(eca75637a6feb2b4d9da682e0bfc9194) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '4a59db022e7b3ff748e8eba34041eb48') in 0.009794 seconds
+Refreshing native plugins compatible for Editor in 2.21 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 53.448ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Mac/Release/AkSoundEngine.bundle using Guid(ab5d34693b41a2a418c7bd0cac784884) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '8082ada47caf7119c40f7258987706e2') in 0.009484 seconds
+Refreshing native plugins compatible for Editor in 1.77 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 40.778ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Mac/Profile/AkSoundEngine.bundle using Guid(4bf5976022f5db94fbdbe721d094ebf5) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '9006d4e759e2d3f327b074becd37cd73') in 0.008274 seconds
+Refreshing native plugins compatible for Editor in 2.16 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 42.309ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/x86/DSP/libAkMotion.so using Guid(bc04a2ad2d717ea4d9e90cdd2339821c) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '64f1f7e02bb23d5f494f6a7efa3fdcca') in 0.008753 seconds
+Refreshing native plugins compatible for Editor in 1.60 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 55.669ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Windows/x86/DSP/MasteringSuite.dll using Guid(f55491e8eb36b874aa9ee632db7ad52a) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'e78b01db9b9640ca0677ae6909654321') in 0.009257 seconds
+Refreshing native plugins compatible for Editor in 1.87 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 48.529ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Mac/DSP/libAkTremolo.bundle using Guid(ed5fa0b6f8133804cb8607f5a41b4481) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '61c64aabcb2f18986b030d560ce0ab24') in 0.009138 seconds
+Refreshing native plugins compatible for Editor in 2.08 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 44.921ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Windows/x86_64/Debug/AkSoundEngine.dll using Guid(87df51055838eb648a3a40ff01280669) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'a7cc7697cd7db2e93610b4f3a3af7d53') in 0.038392 seconds
+Refreshing native plugins compatible for Editor in 1.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 72.108ms
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/iZTrashBoxModelerFXFactory.h using Guid(18759d95dd197a14081cdeb3116cddc8) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '2f4bc9451d702eee7e9e3a777617439f') in 0.010278 seconds
+Refreshing native plugins compatible for Editor in 1.03 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 55.112ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Mac/DSP/libAkHarmonizer.bundle using Guid(7f019c98d926a7c45ac3404767514a27) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '50b3fa4227e0bd47d0d161b0a0d8d828') in 0.011329 seconds
+Refreshing native plugins compatible for Editor in 1.73 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 45.064ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/arm64-v8a/DSP/libAkConvolutionReverb.so using Guid(38f4d700480fa6f488cf610f8689e0d2) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '006e3d71d6fa860e8ce8fc4fee8ae4ab') in 0.008520 seconds
+Refreshing native plugins compatible for Editor in 1.82 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 61.305ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Windows/x86/DSP/AkImpacter.dll using Guid(fa6a4dfb333161f43b383e0dd8725967) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'bea21380f5161b304760252968256c54') in 0.010112 seconds
+Refreshing native plugins compatible for Editor in 0.99 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 40.484ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Windows/x86_64/DSP/iZotope.dll using Guid(adc12486a174c37409ecdb7b025cd3a5) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '55905817aa8fc75eccda38f5d4ea575a') in 0.009572 seconds
+Refreshing native plugins compatible for Editor in 1.88 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 51.286ms
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/MasteringSuiteFXFactory.h using Guid(97e87da05fdd5284cb850d2708e87f0c) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '63c9bdcf1e87c89d96c6213a8d3fcb57') in 0.009136 seconds
+Refreshing native plugins compatible for Editor in 1.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 55.462ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Mac/Debug/AkSoundEngine.bundle using Guid(dc28191a71e04b44d8caba6f680619ca) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '8ff580c901116bcd9b0c6619c5eea43f') in 0.008867 seconds
+Refreshing native plugins compatible for Editor in 2.07 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 39.231ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Windows/x86/DSP/AkMotion.dll using Guid(6dcab5346945fef468c55c9c4c842a3a) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '372a899b6860af07904004b173fbca8a') in 0.009015 seconds
+Refreshing native plugins compatible for Editor in 1.09 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 36.452ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Mac/DSP/libAkGuitarDistortion.bundle using Guid(b3cf875af31c9b243a216c939ed51686) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '67e4a7f5f09fb1e040aa357151eb0e8f') in 0.007093 seconds
+Refreshing native plugins compatible for Editor in 1.05 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 33.158ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Mac/DSP/libMasteringSuite.bundle using Guid(ece3a411ad11e5741a1cb89b481e2b91) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'ee2cde0366dd743f766062463ee2de98') in 0.007323 seconds
+Refreshing native plugins compatible for Editor in 1.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 33.864ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Windows/x86_64/DSP/AkConvolutionReverb.dll using Guid(5c028af25a71070418701992c8dddf0c) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'd7a49792c0e9f900992d9060b54e99bf') in 0.010637 seconds
+Refreshing native plugins compatible for Editor in 1.05 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 47.530ms
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/libAkSoundSeedWindSource.a using Guid(a588adbb2df3a834d8a22d7557c37554) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'ae710ed080ee1b8265fcb57c1c801afa') in 0.008916 seconds
+Refreshing native plugins compatible for Editor in 1.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 53.165ms
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/libiZTrashBoxModelerFX.a using Guid(0d03dfa44f962a746b2b4870ffe5b34d) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'b97821c5c02c4bd18e57d50a32bb5475') in 0.010468 seconds
+Refreshing native plugins compatible for Editor in 1.69 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 55.097ms
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/AkSynthOneSourceFactory.h using Guid(c2387658d610a864c81536bff02fe2d8) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'e79411e310c73aff749202f0730c74d6') in 0.010077 seconds
+Refreshing native plugins compatible for Editor in 1.11 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 53.342ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Windows/x86_64/DSP/AkSoundSeedAir.dll using Guid(992120fa482a4c84ca30109346a9f5c3) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '1bd8aa5b30f9ec8adfdeb7cde4e0d0a0') in 0.008965 seconds
+Refreshing native plugins compatible for Editor in 1.97 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 51.754ms
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/iZHybridReverbFXFactory.h using Guid(18150cdb99f0c5a4383283c153f74c15) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'bc76eed3c4a770aeaa81e077be8bafcc') in 0.011450 seconds
+Refreshing native plugins compatible for Editor in 1.22 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 72.674ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/x86/Profile/libAkSoundEngine.so using Guid(51040e33438efec4c9dd7ad1fbcfb69e) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '51c4f1fd52e4783afe2216e1b1896dd0') in 0.009928 seconds
+Refreshing native plugins compatible for Editor in 1.22 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 60.083ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/arm64-v8a/DSP/libAkSoundSeedAir.so using Guid(1c8c766277d017b43bca9678754b6664) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'bc8ef1c3be1167249aae6a9193752aec') in 0.008796 seconds
+Refreshing native plugins compatible for Editor in 1.07 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 53.730ms
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/AkSoundSeedWooshSourceFactory.h using Guid(765de64543dcf8049bf612dad432f77a) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'e62eb5706cb4db90e823745e6f17a099') in 0.009352 seconds
+Refreshing native plugins compatible for Editor in 1.84 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 58.382ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Windows/x86_64/DSP/AkMotion.dll using Guid(9fb910e796bddcf48b87a1f85c0ffc38) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '5c39396ff6e392f32c6425ad0baaa2d1') in 0.010627 seconds
+Refreshing native plugins compatible for Editor in 1.05 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 42.075ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Windows/x86_64/DSP/McDSP.dll using Guid(7384a70464491c84f8dd9cfcfc09c5a8) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '7002bfd8f9c1d2ba26fca7e9805da94b') in 0.009380 seconds
+Refreshing native plugins compatible for Editor in 1.16 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 48.187ms
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/AkSoundSeedImpactFXFactory.h using Guid(54619b45c2998ce48bead034a257b7b9) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'cad28e3e24afce839e3e725661528180') in 0.009482 seconds
+Refreshing native plugins compatible for Editor in 1.76 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 57.097ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Windows/x86/DSP/AkSoundSeedGrain.dll using Guid(7a0254195a8b89c43a8b581a67f214af) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '587f6550effe47e93deaee971ea849da') in 0.009319 seconds
+Refreshing native plugins compatible for Editor in 1.73 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 44.299ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/x86/Debug/libAkSoundEngine.so using Guid(6cd97b860831d0e44a9db5541c6bf626) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '4cf3fa865a420efd21672ed5061a2c48') in 0.007239 seconds
+Refreshing native plugins compatible for Editor in 1.80 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 55.103ms
+Start importing Assets/Wwise/API/Runtime/Plugins/iOS/DSP/libiZHybridReverbFX.a using Guid(e8625e6a6c4f964469e30c745daac7f2) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '4a0fe04ad0fa5f10ddb2e8017d026adc') in 0.010821 seconds
+Refreshing native plugins compatible for Editor in 1.04 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 62.668ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/armeabi-v7a/DSP/libAkMotion.so using Guid(aa95166b0648f4943acc7f1894c618d8) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '5c283169b5d6e286372d11adb1f3af3d') in 0.009578 seconds
+Refreshing native plugins compatible for Editor in 1.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 59.814ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Windows/x86_64/DSP/AkImpacter.dll using Guid(1b8f91c1f39392b498b93ce1fa4aa30d) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'e4f8b3b32fc8a811d964a525c5b0a231') in 0.009859 seconds
+Refreshing native plugins compatible for Editor in 1.24 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 48.863ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Android/armeabi-v7a/DSP/libMcDSP.so using Guid(302f6233fdef3f940a627bc35d688cb9) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'ad40045edb52af0036ae4261b1f60082') in 0.009640 seconds
+Refreshing native plugins compatible for Editor in 0.98 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 55.653ms
+Start importing Assets/Wwise/API/Runtime/Plugins/Windows/x86/DSP/Auro.dll using Guid(3767d127c1ee5ce42937dae75d441e9c) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '6abf1bfdbbdf5d96905665d65b75f785') in 0.010013 seconds
+Refreshing native plugins compatible for Editor in 1.07 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 47.600ms
+WwiseUnity: Refreshing asset database.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WwiseSetupWizard:RunModify () (at Assets/Wwise/MonoBehaviour/Editor/WwiseSetupWizard/AkWwiseSetupWizard.cs:14)
+
+(Filename: Assets/Wwise/MonoBehaviour/Editor/WwiseSetupWizard/AkWwiseSetupWizard.cs Line: 14)
+
+Refresh completed in 0.016342 seconds.
+RefreshInfo: RefreshV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 16.319ms
+WwiseUnity: End of setup, exiting Unity.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+WwiseSetupWizard:RunModify () (at Assets/Wwise/MonoBehaviour/Editor/WwiseSetupWizard/AkWwiseSetupWizard.cs:18)
+
+(Filename: Assets/Wwise/MonoBehaviour/Editor/WwiseSetupWizard/AkWwiseSetupWizard.cs Line: 18)
+
+Batchmode quit successfully invoked - shutting down!
+[Performance] WinEditorMain                                               :        1 samples, Peak.  3.81 s (1.0x), Avg.  3.81 s, Total. 3.812 s (3.0%)
+[Performance] WinEditorMain.ConfigureCrashHandler                         :        1 samples, Peak.   233 us (1.0x), Avg.   233 us, Total. 232.6 us (0.0%)
+[Performance] WinEditorMain.CurlRequestInitialize                         :        1 samples, Peak.  3.32 ms (1.0x), Avg.  3.32 ms, Total. 3.319 ms (0.0%)
+[Performance] WinEditorMain.SetupLogFile                                  :        1 samples, Peak.  2.99 ms (1.0x), Avg.  2.99 ms, Total. 2.994 ms (0.0%)
+[Performance] WinEditorMain.RunNativeTestsIfRequiredAndExit               :        1 samples, Peak.  11.1 us (1.0x), Avg.  11.1 us, Total. 11.10 us (0.0%)
+[Performance] WinEditorMain.Licensing                                     :        1 samples, Peak.  3.74 s (1.0x), Avg.  3.74 s, Total. 3.736 s (2.9%)
+[Performance] WinEditorMain.InitializeCrashHandler                        :        1 samples, Peak.  17.0 ms (1.0x), Avg.  17.0 ms, Total. 17.01 ms (0.0%)
+[Performance] WinEditorMain.CreateApplication                             :        1 samples, Peak.  51.2 ms (1.0x), Avg.  51.2 ms, Total. 51.22 ms (0.0%)
+[Performance] Application.InitializeProject                               :        1 samples, Peak.   116 s (1.0x), Avg.   116 s, Total. 116.3 s (90.8%)
+[Performance] Application.PackageManager.StartServer                      :        1 samples, Peak.   109 ms (1.0x), Avg.   109 ms, Total. 109.4 ms (0.1%)
+[Performance] Application.AcquireProjectLock                              :        1 samples, Peak.  17.9 ms (1.0x), Avg.  17.9 ms, Total. 17.93 ms (0.0%)
+[Performance] Application.InitializeEngineNoGraphics                      :        1 samples, Peak.   102 ms (1.0x), Avg.   102 ms, Total. 101.7 ms (0.1%)
+[Performance] Application.PackageManager.Initialize                       :        1 samples, Peak.  1.45 s (1.0x), Avg.  1.45 s, Total. 1.453 s (1.1%)
+[Performance] CurlRequestCheck                                            :       24 samples, Peak.   611 us (18.5x), Avg.  33.0 us, Total. 791.4 us (0.0%)
+[Performance] PackageManager::RunRequestSynchronously                     :       21 samples, Peak.   683 us (18.3x), Avg.  37.2 us, Total. 782.2 us (0.0%)
+[Performance] VersionControl.Task.Wait                                    :        1 samples, Peak.  54.7 us (1.0x), Avg.  54.7 us, Total. 54.70 us (0.0%)
+[Performance] Application.EngineGraphics.Initialize                       :        1 samples, Peak.  57.5 ms (1.0x), Avg.  57.5 ms, Total. 57.47 ms (0.0%)
+[Performance] Application.GI.Initialize                                   :        1 samples, Peak.  5.92 ms (1.0x), Avg.  5.92 ms, Total. 5.920 ms (0.0%)
+[Performance] Application.LoadAllDefaultResourcesFromEditor               :        1 samples, Peak.  4.05 ms (1.0x), Avg.  4.05 ms, Total. 4.049 ms (0.0%)
+[Performance] Application.LoadMonoAssemblies                              :        1 samples, Peak.  5.25 s (1.0x), Avg.  5.25 s, Total. 5.248 s (4.1%)
+[Performance] RestoreManagedReferences                                    :        2 samples, Peak.   138 ms (2.0x), Avg.  69.1 ms, Total. 138.2 ms (0.1%)
+[Performance] ProcessService.EditorAfterLoadAllAssemblies                 :        2 samples, Peak.  43.4 ms (1.1x), Avg.  38.9 ms, Total. 77.73 ms (0.1%)
+[Performance] Application.ReadLicenseInfo                                 :        1 samples, Peak.  12.3 ms (1.0x), Avg.  12.3 ms, Total. 12.28 ms (0.0%)
+[Performance] Application.InitialScriptRefresh                            :        1 samples, Peak.   103 s (1.0x), Avg.   103 s, Total. 103.3 s (80.7%)
+[Performance] PresetManagerPostProcessor.OnPreprocessAsset                :      260 samples, Peak.  1.46 ms (40.4x), Avg.  36.1 us, Total. 9.397 ms (0.0%)
+[Performance] CancelSplashScreenOnAssetChange.OnPreprocessAsset           :      260 samples, Peak.   901 us (90.9x), Avg.  9.91 us, Total. 2.576 ms (0.0%)
+[Performance] Compiling Scripts                                           :        1 samples, Peak.  6.22 s (1.0x), Avg.  6.22 s, Total. 6.225 s (4.9%)
+[Performance] AssetDatabase.ImportAsset                                   :      191 samples, Peak.  93.9 ms (2.8x), Avg.  33.2 ms, Total. 6.344 s (5.0%)
+[Performance] AssetDatabase.ImportAssets                                  :      124 samples, Peak.  2.10 us (2.6x), Avg.   814 ns, Total. 100.9 us (0.0%)
+[Performance] AssemblyPostProcessor.OnPostprocessAllAssets                :      124 samples, Peak.   380 us (10.1x), Avg.  37.4 us, Total. 4.643 ms (0.0%)
+[Performance] TMPro_TexturePostProcessor.OnPostprocessAllAssets           :      124 samples, Peak.   992 us (36.8x), Avg.  26.9 us, Total. 3.340 ms (0.0%)
+[Performance] RetainedMode.OnPostprocessAllAssets                         :      124 samples, Peak.  3.37 ms (53.3x), Avg.  63.3 us, Total. 7.855 ms (0.0%)
+[Performance] EditorAtlasMonitorInjector.OnPostprocessAllAssets           :      124 samples, Peak.   558 us (39.1x), Avg.  14.3 us, Total. 1.768 ms (0.0%)
+[Performance] AudioMixerPostprocessor.OnPostprocessAllAssets              :      124 samples, Peak.  1.32 ms (90.2x), Avg.  14.7 us, Total. 1.817 ms (0.0%)
+[Performance] AssetEvents.OnPostprocessAllAssets                          :      248 samples, Peak.   843 us (105.2x), Avg.  8.02 us, Total. 1.988 ms (0.0%)
+[Performance] ModelImporterPostProcessor.OnPostprocessAllAssets           :      124 samples, Peak.  11.2 ms (87.3x), Avg.   128 us, Total. 15.91 ms (0.0%)
+[Performance] StyleCatalogPostProcessor.OnPostprocessAllAssets            :      124 samples, Peak.  46.4 ms (120.2x), Avg.   386 us, Total. 47.84 ms (0.0%)
+[Performance] BuildCatalog                                                :        1 samples, Peak.  44.9 ms (1.0x), Avg.  44.9 ms, Total. 44.95 ms (0.0%)
+[Performance] Application.AssetDatabase.Refresh                           :        1 samples, Peak.   394 ms (1.0x), Avg.   394 ms, Total. 393.6 ms (0.3%)
+[Performance] AssetDatabase.Refresh                                       :        2 samples, Peak.   394 ms (1.9x), Avg.   205 ms, Total. 410.0 ms (0.3%)
+[Performance] Application.ImportAssetsWithMismatchingAssetImporterVersion :        1 samples, Peak.   102 ms (1.0x), Avg.   102 ms, Total. 101.7 ms (0.1%)
+[Performance] Application.SyncCurrentColorSpace                           :        1 samples, Peak.  21.3 ms (1.0x), Avg.  21.3 ms, Total. 21.28 ms (0.0%)
+[Performance] Application.OnUsbDevicesChanged                             :        1 samples, Peak.  5.12 ms (1.0x), Avg.  5.12 ms, Total. 5.116 ms (0.0%)
+[Performance] Application.AssetInstanceCacheUpdate                        :        1 samples, Peak.   400 ns (1.0x), Avg.   400 ns, Total. 400.0 ns (0.0%)
+[Performance] Application.UnityExtensions.Initialize                      :        1 samples, Peak.  1.39 ms (1.0x), Avg.  1.39 ms, Total. 1.394 ms (0.0%)
+[Performance] Application.InitializeManagedCompilationPipeline            :        1 samples, Peak.  58.2 ms (1.0x), Avg.  58.2 ms, Total. 58.19 ms (0.0%)
+[Performance] Application.ExecuteStartups                                 :        1 samples, Peak.   103 ms (1.0x), Avg.   103 ms, Total. 103.4 ms (0.1%)
+[Performance] Gizmo.RebuildRenderers                                      :        1 samples, Peak.  84.1 ms (1.0x), Avg.  84.1 ms, Total. 84.14 ms (0.1%)
+[Performance] Gizmo.AddGizmoRenderers                                     :       35 samples, Peak.  2.24 ms (19.4x), Avg.   116 us, Total. 4.046 ms (0.0%)
+[Performance] Application.InitializeMenu                                  :        1 samples, Peak.  64.1 ms (1.0x), Avg.  64.1 ms, Total. 64.07 ms (0.1%)
+[Performance] UpdateAllMenus                                              :        1 samples, Peak.  61.0 ms (1.0x), Avg.  61.0 ms, Total. 60.97 ms (0.0%)
+[Performance] Application.editorInitializingProject                       :        1 samples, Peak.   246 us (1.0x), Avg.   246 us, Total. 245.8 us (0.0%)
+[Performance] GUIView.RepaintAll.PlayerLoopController                     :        2 samples, Peak.  7.80 us (1.7x), Avg.  4.55 us, Total. 9.100 us (0.0%)
+[Performance] Application.InvokeFinishedLoadingProject                    :        1 samples, Peak.   298 ms (1.0x), Avg.   298 ms, Total. 298.0 ms (0.2%)
+[Performance] ProcessService.OnProjectLoaded                              :        1 samples, Peak.  51.5 ms (1.0x), Avg.  51.5 ms, Total. 51.46 ms (0.0%)
+Querying for cacheable assets in Cache Server:
+	7f1952140d6baa94980de7be72f4c1cc:Assets/Wwise/Editor/ProjectData/AkWwiseProjectData.asset
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:67b2c2a3b62ebab54154d5a1938bb423
+Start importing Assets/Wwise/Editor/ProjectData/AkWwiseProjectData.asset using Guid(7f1952140d6baa94980de7be72f4c1cc) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'e21f422d60f914c29d5ae8ef76600fa9') in 0.004409 seconds
+RemoteAssetCache::AddArtifactToCacheServer - artifactKey='Guid(7f1952140d6baa94980de7be72f4c1cc) Importer(-1,00000000000000000000000000000000)' Artifact id='e21f422d60f914c29d5ae8ef76600fa9' Key (and library path)='Library/Artifacts/20/2025297025472bc430e2ff167b5567c0'
+RemoteAssetCache - Upload - Artifact - success:true, namespace:defaultmetadata, key:2025297025472bc430e2ff167b5567c0
+RemoteAssetCache - Download - Metadata - success:false, namespace:defaultmetadata, key:67b2c2a3b62ebab54154d5a1938bb423
+RemoteAssetCache - Upload - Metadata - success:true, namespace:defaultmetadata, key:67b2c2a3b62ebab54154d5a1938bb423
+Refreshing native plugins compatible for Editor in 2.57 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 49.946ms
+AcceleratorClientConnectionCallback - disconnected - 10.1.3.238:10080
+AcceleratorClientConnectionCallback - disconnected - 10.1.3.238:10080
+Cleanup mono
+Exiting batchmode successfully now!
+Exiting without the bug reporter. Application will terminate with return code 0

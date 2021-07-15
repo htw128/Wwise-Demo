@@ -1,0 +1,77 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "12",
+  "SoundbankVersion": "140",
+  "RootPaths": {
+   "ProjectRoot": "D:\\Projects\\Wwise_Demo\\Testing_Project_WwiseProject\\",
+   "SourceFilesRoot": "D:\\Projects\\Wwise_Demo\\Testing_Project_WwiseProject\\.cache\\Windows\\",
+   "SoundBanksRoot": "D:\\Projects\\Wwise_Demo\\Testing_Project_WwiseProject\\GeneratedSoundBanks\\Windows\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "D:\\Projects\\Wwise_Demo\\Testing_Project_WwiseProject\\GeneratedSoundBanks\\Windows"
+  },
+  "DialogueEvents": [],
+  "StreamedFiles": [],
+  "MediaFilesNotInAnyBank": [],
+  "SoundBanks": [
+   {
+    "Id": "133642231",
+    "Language": "SFX",
+    "Hash": "1109088828",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\General",
+    "ShortName": "General",
+    "Path": "General.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "500558108",
+      "Name": "Play1",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play1",
+      "DurationType": "OneShot",
+      "DurationMin": "0.050204",
+      "DurationMax": "0.050204",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "647750395",
+        "Language": "SFX",
+        "ShortName": "audio_sound_button_normal.wav",
+        "Path": "SFX\\audio_sound_button_normal_10C4C929.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3256642374",
+      "Name": "Play_New_Music_Segment",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_New_Music_Segment",
+      "DurationType": "OneShot",
+      "DurationMin": "151.330948",
+      "DurationMax": "151.330948",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "244944461",
+        "Language": "SFX",
+        "ShortName": "audio_music_camp.wav",
+        "Path": "SFX\\audio_music_camp_D79FB2B7.wem"
+       }
+      ]
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "2415836739",
+      "Name": "Volume",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Volume"
+     }
+    ]
+   },
+   {
+    "Id": "1355168291",
+    "Language": "SFX",
+    "Hash": "2886056923",
+    "ObjectPath": "Init",
+    "ShortName": "Init",
+    "Path": "Init.bnk"
+   }
+  ]
+ }
+}

@@ -86,3 +86,5 @@ IncrementalSoundBankData.xml
 *.prof
 *.akd
 WwiseUnityIntegration_*_Src.zip
+
+*.a
