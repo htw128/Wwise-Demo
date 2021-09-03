@@ -138,7 +138,6 @@ public class AkWwiseXMLBuilder
 		var name = node.Attributes["Name"].InnerText;
 		if (maxAttenuationAttribute == null && durationMinAttribute == null && durationMaxAttribute == null)
 		{
-			UnityEngine.Debug.Log("WwiseUnity: Could not get metadata for event: " + name);
 			return false;
 		}
 

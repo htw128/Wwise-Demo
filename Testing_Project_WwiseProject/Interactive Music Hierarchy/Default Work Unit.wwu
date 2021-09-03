@@ -17,6 +17,9 @@
 					</ReferenceList>
 					<ChildrenList>
 						<MusicTrack Name="audio_music_camp" ID="{998C58F0-9AF2-4A8D-ACB7-AD30B78DB461}" ShortID="1005451917">
+							<PropertyList>
+								<Property Name="MusicTrackType" Type="int16" Value="1"/>
+							</PropertyList>
 							<ReferenceList>
 								<Reference Name="OutputBus">
 									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{79918155-8D12-474A-A50E-34651E256313}"/>
@@ -36,6 +39,11 @@
 									<PropertyList>
 										<Property Name="IsFolder" Type="bool" Value="True"/>
 									</PropertyList>
+									<ChildrenList>
+										<MusicTransition Name="Transition" ID="{FEE9B84F-E529-4E58-92FB-094262B867BB}">
+											<TransitionInfo/>
+										</MusicTransition>
+									</ChildrenList>
 									<TransitionInfo/>
 								</MusicTransition>
 							</TransitionList>

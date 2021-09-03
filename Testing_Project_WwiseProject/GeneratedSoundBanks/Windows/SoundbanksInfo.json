@@ -18,7 +18,7 @@
    {
     "Id": "133642231",
     "Language": "SFX",
-    "Hash": "1109088828",
+    "Hash": "2761806338",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\General",
     "ShortName": "General",
     "Path": "General.bnk",
@@ -37,6 +37,25 @@
         "ShortName": "audio_sound_button_normal.wav",
         "Path": "SFX\\audio_sound_button_normal_10C4C929.wem"
        }
+      ],
+      "DefaultSwitchValue": "{F15D56A4-EDEE-473D-8D0A-F5BC4C564D8D}",
+      "SwitchContainers": [
+       {
+        "SwitchValue": "{7DA1CDC9-FDBA-41B5-B69A-98F96C92338B}",
+        "Media": [
+         {
+          "Id": "647750395"
+         }
+        ]
+       },
+       {
+        "SwitchValue": "{F6BE8124-CC3A-4323-9553-5AB3E8ECA45E}",
+        "Media": [
+         {
+          "Id": "647750395"
+         }
+        ]
+       }
       ]
      },
      {
@@ -54,6 +73,38 @@
         "Path": "SFX\\audio_music_camp_D79FB2B7.wem"
        }
       ]
+     },
+     {
+      "Id": "3364601841",
+      "Name": "Set_Dirt",
+      "ObjectPath": "\\Events\\Default Work Unit\\Set_Dirt",
+      "MaxAttenuation": "0.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "0.000000",
+      "DurationMax": "0.000000",
+      "ActionSetSwitch": [
+       {
+        "Id": "2195636714",
+        "Name": "dirt",
+        "ObjectPath": "\\Switches\\Default Work Unit\\suface\\dirt"
+       }
+      ]
+     },
+     {
+      "Id": "4038830388",
+      "Name": "Set_Grass",
+      "ObjectPath": "\\Events\\Default Work Unit\\Set_Grass",
+      "MaxAttenuation": "0.000000",
+      "DurationType": "OneShot",
+      "DurationMin": "0.000000",
+      "DurationMax": "0.000000",
+      "ActionSetSwitch": [
+       {
+        "Id": "4248645337",
+        "Name": "grass",
+        "ObjectPath": "\\Switches\\Default Work Unit\\suface\\grass"
+       }
+      ]
      }
     ],
     "GameParameters": [
@@ -61,6 +112,48 @@
       "Id": "2415836739",
       "Name": "Volume",
       "ObjectPath": "\\Game Parameters\\Default Work Unit\\Volume"
+     }
+    ],
+    "SwitchGroups": [
+     {
+      "Id": "1117253534",
+      "Name": "suface",
+      "ObjectPath": "\\Switches\\Default Work Unit\\suface",
+      "GUID": "{F57793F5-EDFD-446F-9658-CB63D39F7A23}",
+      "Switches": [
+       {
+        "Id": "2195636714",
+        "Name": "dirt",
+        "ObjectPath": "\\Switches\\Default Work Unit\\suface\\dirt",
+        "GUID": "{7DA1CDC9-FDBA-41B5-B69A-98F96C92338B}"
+       },
+       {
+        "Id": "1216965916",
+        "Name": "stone",
+        "ObjectPath": "\\Switches\\Default Work Unit\\suface\\stone",
+        "GUID": "{F15D56A4-EDEE-473D-8D0A-F5BC4C564D8D}"
+       },
+       {
+        "Id": "4248645337",
+        "Name": "grass",
+        "ObjectPath": "\\Switches\\Default Work Unit\\suface\\grass",
+        "GUID": "{F6BE8124-CC3A-4323-9553-5AB3E8ECA45E}"
+       }
+      ]
+     },
+     {
+      "Id": "2195636714",
+      "Name": "dirt",
+      "ObjectPath": "\\Switches\\Default Work Unit\\suface\\dirt",
+      "GUID": "{7DA1CDC9-FDBA-41B5-B69A-98F96C92338B}",
+      "Switches": []
+     },
+     {
+      "Id": "4248645337",
+      "Name": "grass",
+      "ObjectPath": "\\Switches\\Default Work Unit\\suface\\grass",
+      "GUID": "{F6BE8124-CC3A-4323-9553-5AB3E8ECA45E}",
+      "Switches": []
      }
     ]
    },

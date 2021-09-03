@@ -5,8 +5,9 @@
 			<ChildrenList>
 				<GameParameter Name="Volume" ID="{EE3F8C9D-38B8-4061-A30A-96C5739ED626}">
 					<PropertyList>
-						<Property Name="InitialValue" Type="Real64" Value="8"/>
-						<Property Name="Max" Type="Real64" Value="10"/>
+						<Property Name="InitialValue" Type="Real64" Value="0"/>
+						<Property Name="Max" Type="Real64" Value="12"/>
+						<Property Name="Min" Type="Real64" Value="-96"/>
 					</PropertyList>
 				</GameParameter>
 			</ChildrenList>

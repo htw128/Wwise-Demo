@@ -15,7 +15,25 @@ namespace AK
     {
         static const AkUniqueID PLAY1 = 500558108U;
         static const AkUniqueID PLAY_NEW_MUSIC_SEGMENT = 3256642374U;
+        static const AkUniqueID SET_DIRT = 3364601841U;
+        static const AkUniqueID SET_GRASS = 4038830388U;
     } // namespace EVENTS
+
+    namespace SWITCHES
+    {
+        namespace SUFACE
+        {
+            static const AkUniqueID GROUP = 1117253534U;
+
+            namespace SWITCH
+            {
+                static const AkUniqueID DIRT = 2195636714U;
+                static const AkUniqueID GRASS = 4248645337U;
+                static const AkUniqueID STONE = 1216965916U;
+            } // namespace SWITCH
+        } // namespace SUFACE
+
+    } // namespace SWITCHES
 
     namespace GAME_PARAMETERS
     {

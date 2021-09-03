@@ -1,11 +1,21 @@
 Event	ID	Name			Wwise Object Path	Notes
 	500558108	Play1			\Default Work Unit\Play1	
 	3256642374	Play_New_Music_Segment			\Default Work Unit\Play_New_Music_Segment	
+	3364601841	Set_Dirt			\Default Work Unit\Set_Dirt	
+	4038830388	Set_Grass			\Default Work Unit\Set_Grass	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	1117253534	suface			\Default Work Unit\suface	
+
+Switch	ID	Name	Switch Group			Notes
+	1216965916	stone	suface			
+	2195636714	dirt	suface			
+	4248645337	grass	suface			
 
 Game Parameter	ID	Name			Wwise Object Path	Notes
 	2415836739	Volume			\Default Work Unit\Volume	
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	244944461	audio_music_camp	D:\Projects\Wwise_Demo\Testing_Project_WwiseProject\.cache\Mac\SFX\audio_music_camp_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\New Music Segment\audio_music_camp		26694844
-	647750395	audio_sound_button_normal	D:\Projects\Wwise_Demo\Testing_Project_WwiseProject\.cache\Mac\SFX\audio_sound_button_normal_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\New Actor-Mixer\audio_sound_button_normal		4492
+	647750395	audio_sound_button_normal	D:\Projects\Wwise_Demo\Testing_Project_WwiseProject\.cache\Mac\SFX\audio_sound_button_normal_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\New Actor-Mixer\New Switch Container\audio_sound_button_normal		4492
 
